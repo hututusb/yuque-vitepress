@@ -1,0 +1,5189 @@
+{
+  "docs": [
+    {
+      "id": 175350002,
+      "doc_id": "qzqdhbw0qu4tskaf",
+      "updated": 1719411318000,
+      "properties": {
+        "title": "yuque-vitepress",
+        "urlname": "qzqdhbw0qu4tskaf",
+        "date": "2024-06-26 22:15:18",
+        "updated": "2024-06-26 22:15:18"
+      },
+      "catalog": [],
+      "realName": "yuque-vitepress",
+      "relativePath": "/yuque-vitepress.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 175203122,
+      "doc_id": "bm93nlq88b8dnde0",
+      "updated": 1719337838000,
+      "properties": {
+        "title": "免费且可以无障碍下载的SVG素材网站大集合！个个都是精品！ - 软件素材分享区 Discuz! Board -",
+        "urlname": "bm93nlq88b8dnde0",
+        "date": "2024-06-26 01:50:37",
+        "updated": "2024-06-26 01:50:38"
+      },
+      "catalog": [],
+      "realName": "免费且可以无障碍下载的SVG素材网站大集合！个个都是精品！ - 软件素材分享区 Discuz! Board -",
+      "relativePath": "/免费且可以无障碍下载的SVG素材网站大集合！个个都是精品！ - 软件素材分享区 Discuz! Board -.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 175258674,
+      "doc_id": "lqgbwcb57eg2orfx",
+      "updated": 1719369994000,
+      "properties": {
+        "title": "开发跨桌面应用",
+        "urlname": "lqgbwcb57eg2orfx",
+        "date": "2024-06-26 10:41:24",
+        "updated": "2024-06-26 10:46:34",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/webp/40770342/1719369701737-86958897-097e-4dc9-8ebc-8ce6c19320ce.webp",
+        "description": "背景Tauri 和 Electron 都是用于开发跨平台桌面应用程序的工具，因为最近使用ChatGPT在国内环境的确不够友好，又没有一个比较轻量简洁的工具可用，如是想自己造个轻量点的轮子，力争做到代码轻量，界面美观简洁，打出的安装包小，请求ChatGPT速度快，会话安全，不被封号。实现玩之后的..."
+      },
+      "catalog": [],
+      "realName": "开发跨桌面应用",
+      "relativePath": "/开发跨桌面应用.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 175203049,
+      "doc_id": "kowcashgh9hq2v0c",
+      "updated": 1719337573000,
+      "properties": {
+        "title": "SVGator: 免费的在线SVG动画制作工具 – 网络探索者",
+        "urlname": "kowcashgh9hq2v0c",
+        "date": "2024-06-26 01:46:12",
+        "updated": "2024-06-26 01:46:13"
+      },
+      "catalog": [],
+      "realName": "SVGator! 免费的在线SVG动画制作工具 – 网络探索者",
+      "relativePath": "/SVGator! 免费的在线SVG动画制作工具 – 网络探索者.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 175076393,
+      "doc_id": "odi3w9s2g2s5qnzh",
+      "updated": 1719262439000,
+      "properties": {
+        "title": "vue exe",
+        "urlname": "odi3w9s2g2s5qnzh",
+        "date": "2024-06-25 04:53:41",
+        "updated": "2024-06-25 04:53:59",
+        "description": "https://blog.csdn.net/qq_23731311/article/details/134285108"
+      },
+      "catalog": [],
+      "realName": "vue exe",
+      "relativePath": "/vue exe.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 175202030,
+      "doc_id": "rfz350vg41wkucbn",
+      "updated": 1719333682000,
+      "properties": {
+        "title": "HPUhushicheng/vitepress-pro: 基于 VitePress 构建的个人知识库/博客",
+        "urlname": "rfz350vg41wkucbn",
+        "date": "2024-06-26 00:41:21",
+        "updated": "2024-06-26 00:41:22"
+      },
+      "catalog": [],
+      "realName": "HPUhushicheng!vitepress-pro! 基于 VitePress 构建的个人知识库!博客",
+      "relativePath": "/HPUhushicheng!vitepress-pro! 基于 VitePress 构建的个人知识库!博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174575207,
+      "doc_id": "ht05grxkpdztzvk8",
+      "updated": 1719133429000,
+      "properties": {
+        "title": "用一行代码-重装系统cmdpe.com - 很多无尾熊 - 博客园",
+        "urlname": "ht05grxkpdztzvk8",
+        "date": "2024-06-21 02:51:59",
+        "updated": "2024-06-23 17:03:49",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/jpeg/40770342/1718909517078-670ae7f0-20b7-4140-b77c-d74abb42946c.jpeg",
+        "description": "告诉你们一条命令就可以重装最新微软官方系统、包括最新Windows11哦！任何电脑都可以用。这绝壁是史上最简单的重装系统、超实用。主要特点：只需一行命令，不需要其他任何东西。自动从微软官方服务器下载系统文件，绝对纯净。下载速度快，支持断点续传，支持多线程，基本上几分钟就能下载完。支持带参数安装..."
+      },
+      "catalog": [],
+      "realName": "用一行代码-重装系统cmdpe.com - 很多无尾熊 - 博客园",
+      "relativePath": "/用一行代码-重装系统cmdpe.com - 很多无尾熊 - 博客园.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174553211,
+      "doc_id": "sevu65039xhhbwu0",
+      "updated": 1719200886000,
+      "properties": {
+        "title": "概率论",
+        "urlname": "sevu65039xhhbwu0",
+        "date": "2024-06-20 23:33:13",
+        "updated": "2024-06-24 11:48:06",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1718897606636-f0677076-87f1-45a5-b947-19b0841d603c.png",
+        "description": "P(AC\\mid\\bar{B})\\text{设}A,B,C\\text{是随机事件},A\\text{ 与}B\\text{ 互不相容},\\text{且 }P(AC)=\\frac12\\text{ ,}P(B)=\\frac13\\text{ 。则 }P(AC\\mid\\bar{B})="
+      },
+      "catalog": [],
+      "realName": "概率论",
+      "relativePath": "/概率论.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174825808,
+      "doc_id": "cd5ez6ip0ewkky6d",
+      "updated": 1719094489000,
+      "properties": {
+        "title": "王荣胜博客园",
+        "urlname": "cd5ez6ip0ewkky6d",
+        "date": "2024-06-23 06:14:18",
+        "updated": "2024-06-23 06:14:49",
+        "description": "https://github.com/WangRongsheng/Awesome-Blog"
+      },
+      "catalog": [],
+      "realName": "王荣胜博客园",
+      "relativePath": "/王荣胜博客园.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174825796,
+      "doc_id": "gg6e93dwxqtz7fnh",
+      "updated": 1719094238000,
+      "properties": {
+        "title": "本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。",
+        "urlname": "gg6e93dwxqtz7fnh",
+        "date": "2024-06-23 06:10:10",
+        "updated": "2024-06-23 06:10:38",
+        "description": "https://github.com/AmbroseX/Awesome-AISourceHub"
+      },
+      "catalog": [],
+      "realName": "本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。",
+      "relativePath": "/本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174826977,
+      "doc_id": "fhz41bhx6s637vwb",
+      "updated": 1719102904000,
+      "properties": {
+        "title": "gmeek博客搭建教程",
+        "urlname": "fhz41bhx6s637vwb",
+        "date": "2024-06-23 08:30:52",
+        "updated": "2024-06-23 08:35:04",
+        "description": "GitHub账号comeflyyds12345678910Hsc此处为语雀视频卡片，点击链接查看：gmeek博客搭建视频.mp4https://github.com/Meekdai/Gmeek-templateGmeek 一个博客框架，超轻量级个人博客模板，完全基于Github Pages 、..."
+      },
+      "catalog": [],
+      "realName": "gmeek博客搭建教程",
+      "relativePath": "/gmeek博客搭建教程.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174783906,
+      "doc_id": "imaf663ophrchfxg",
+      "updated": 1719074110000,
+      "properties": {
+        "title": "闲鱼",
+        "urlname": "imaf663ophrchfxg",
+        "date": "2024-06-22 19:59:11",
+        "updated": "2024-06-23 00:35:10",
+        "description": "计算机视觉YoloV9算法，物体检测 深度学习 ，帮训练，帮配置环境，不成功不收费，包训练，验证，测试代码都跑通，训练结果，权重文件加代码整理好发给你，（如果需要gradio网页演示和客户端演示都可以，此部分单独收费，稍贵）计算机本科在读，竞赛方面经常使用Yolo物体检测，为多支科创团队做技术..."
+      },
+      "catalog": [],
+      "realName": "闲鱼",
+      "relativePath": "/闲鱼.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174622891,
+      "doc_id": "xnn7keama7bcyv8w",
+      "updated": 1718941470000,
+      "properties": {
+        "title": "工热",
+        "urlname": "xnn7keama7bcyv8w",
+        "date": "2024-06-21 11:33:41",
+        "updated": "2024-06-21 11:44:30",
+        "description": "填空判断简答大题   0.4系统能量方程开口系 闭口系轴功 有用功理想气体 典型热力过程n=0,1kU W Q水的定压加热过程卡诺循环 正逆循环效率理想气体状态方程水蒸气 湿蒸汽含湿量 露点屏蔽导热"
+      },
+      "catalog": [],
+      "realName": "工热",
+      "relativePath": "/工热.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174575195,
+      "doc_id": "fi803gvfrhw5ka8d",
+      "updated": 1718909441000,
+      "properties": {
+        "title": "用一行代码教你重装Windows系统_重装系统代码-CSDN博客",
+        "urlname": "fi803gvfrhw5ka8d",
+        "date": "2024-06-21 02:50:40",
+        "updated": "2024-06-21 02:50:41"
+      },
+      "catalog": [],
+      "realName": "用一行代码教你重装Windows系统_重装系统代码-CSDN博客",
+      "relativePath": "/用一行代码教你重装Windows系统_重装系统代码-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174575178,
+      "doc_id": "vkypfpbft8gxuxfs",
+      "updated": 1718909321000,
+      "properties": {
+        "title": "AtlasOS-中文优化版、进程少、延迟低、极限性能",
+        "urlname": "vkypfpbft8gxuxfs",
+        "date": "2024-06-21 02:48:40",
+        "updated": "2024-06-21 02:48:41"
+      },
+      "catalog": [],
+      "realName": "AtlasOS-中文优化版、进程少、延迟低、极限性能",
+      "relativePath": "/AtlasOS-中文优化版、进程少、延迟低、极限性能.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174425205,
+      "doc_id": "yb8wdggg64yo6um6",
+      "updated": 1718823539000,
+      "properties": {
+        "title": "keyong",
+        "urlname": "yb8wdggg64yo6um6",
+        "date": "2024-06-20 02:54:10",
+        "updated": "2024-06-20 02:58:59",
+        "description": "可用，但是识别不出来模型 #include \"../include/common.hpp\"     //公共类方法文件 #include \"../include/detection.hpp\"  //百度Paddle框架移动端部署 #include \"../include/uart.hpp\"  ..."
+      },
+      "catalog": [],
+      "realName": "keyong",
+      "relativePath": "/keyong.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174525800,
+      "doc_id": "vwifvcnrrse6py5r",
+      "updated": 1718907143000,
+      "properties": {
+        "title": "多线程",
+        "urlname": "vwifvcnrrse6py5r",
+        "date": "2024-06-20 17:51:56",
+        "updated": "2024-06-21 02:12:23",
+        "description": "#include <iostream> #include <thread> #include <mutex> #include <queue> #include <opencv2/opencv.hpp>  std::mutex mtx; // 全局互斥锁 std::queue<cv::Mat>..."
+      },
+      "catalog": [],
+      "realName": "多线程",
+      "relativePath": "/多线程.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174198235,
+      "doc_id": "toxungfmgna9pmer",
+      "updated": 1718699102000,
+      "properties": {
+        "title": "Leo-smart/Intelligentcar2022-FZ3B: 全国大学生智能汽车竞赛-完全模型组-开源共享软件资源（Edgeboard-FZ3B）",
+        "urlname": "toxungfmgna9pmer",
+        "date": "2024-06-18 16:25:01",
+        "updated": "2024-06-18 16:25:02"
+      },
+      "catalog": [],
+      "realName": "Leo-smart!Intelligentcar2022-FZ3B! 全国大学生智能汽车竞赛-完全模型组-开源共享软件资源（Edgeboard-FZ3B）",
+      "relativePath": "/Leo-smart!Intelligentcar2022-FZ3B! 全国大学生智能汽车竞赛-完全模型组-开源共享软件资源（Edgeboard-FZ3B）.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174400221,
+      "doc_id": "iosbpywo2wx298ai",
+      "updated": 1718809219000,
+      "properties": {
+        "title": "icar.cpp",
+        "urlname": "iosbpywo2wx298ai",
+        "date": "2024-06-19 22:50:20",
+        "updated": "2024-06-19 23:00:19",
+        "description": "/**  ********************************************************************************************************  *                                   ..."
+      },
+      "catalog": [],
+      "realName": "icar.cpp",
+      "relativePath": "/icar.cpp.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 173896958,
+      "doc_id": "tghrsud8ycg4psl8",
+      "updated": 1718808855000,
+      "properties": {
+        "title": "c++多线程",
+        "urlname": "tghrsud8ycg4psl8",
+        "date": "2024-06-16 16:55:43",
+        "updated": "2024-06-19 22:54:15",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1718626451328-05797d5b-2547-4954-b9aa-5925c00e768a.png",
+        "description": "pthread_t pthread_self(void); //返回当前线程id   # 创建线程函数 #include <pthead.h> int pthread_create(pthread_t *thread ,const pthread_attr_t *attr, void *(*s..."
+      },
+      "catalog": [],
+      "realName": "c++多线程",
+      "relativePath": "/c++多线程.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174196410,
+      "doc_id": "eb962n4581yf8chf",
+      "updated": 1718698460000,
+      "properties": {
+        "title": "第十九届全国大学生智能汽车竞赛-赛曙科技开源学习资料: 第十九届全国大学生智能汽车竞赛，完全模型组，北京赛曙科技有限公司开源学习资料仓库",
+        "urlname": "eb962n4581yf8chf",
+        "date": "2024-06-18 16:14:20",
+        "updated": "2024-06-18 16:14:20"
+      },
+      "catalog": [],
+      "realName": "第十九届全国大学生智能汽车竞赛-赛曙科技开源学习资料! 第十九届全国大学生智能汽车竞赛，完全模型组，北京赛曙科技有限公司开源学习资料仓库",
+      "relativePath": "/第十九届全国大学生智能汽车竞赛-赛曙科技开源学习资料! 第十九届全国大学生智能汽车竞赛，完全模型组，北京赛曙科技有限公司开源学习资料仓库.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174196260,
+      "doc_id": "dulmaen4vgl9socf",
+      "updated": 1718698400000,
+      "properties": {
+        "title": "阎佳逸/icar_2024",
+        "urlname": "dulmaen4vgl9socf",
+        "date": "2024-06-18 16:13:19",
+        "updated": "2024-06-18 16:13:20"
+      },
+      "catalog": [],
+      "realName": "阎佳逸!icar_2024",
+      "relativePath": "/阎佳逸!icar_2024.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174196833,
+      "doc_id": "vlpzkxqzxrvafbde",
+      "updated": 1718698608000,
+      "properties": {
+        "title": "landian-yyds: 第十七届全国大学生智能汽车竞赛 - 完全模型组 - 湖北工业大学 - 蓝电YYDS Car队 - Gitee.com",
+        "urlname": "vlpzkxqzxrvafbde",
+        "date": "2024-06-18 16:16:47",
+        "updated": "2024-06-18 16:16:48"
+      },
+      "catalog": [],
+      "realName": "landian-yyds! 第十七届全国大学生智能汽车竞赛 - 完全模型组 - 湖北工业大学 - 蓝电YYDS Car队 - Gitee.com",
+      "relativePath": "/landian-yyds! 第十七届全国大学生智能汽车竞赛 - 完全模型组 - 湖北工业大学 - 蓝电YYDS Car队 - Gitee.com.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174196006,
+      "doc_id": "kresgo1qg8100gve",
+      "updated": 1718698308000,
+      "properties": {
+        "title": "neptune-T/smartcar-model: 十九届完全模型",
+        "urlname": "kresgo1qg8100gve",
+        "date": "2024-06-18 16:11:47",
+        "updated": "2024-06-18 16:11:48"
+      },
+      "catalog": [],
+      "realName": "neptune-T!smartcar-model! 十九届完全模型",
+      "relativePath": "/neptune-T!smartcar-model! 十九届完全模型.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174196103,
+      "doc_id": "sg0ddp3dvpcex5x6",
+      "updated": 1718698346000,
+      "properties": {
+        "title": "十九届完全模型一些小的想法: 最近闲来无事，看到了沈航某大佬开源的十九届智能车完全模型组源码，激发了一些新的想法，于是便整理出来，方便智能车新手学习。",
+        "urlname": "sg0ddp3dvpcex5x6",
+        "date": "2024-06-18 16:12:25",
+        "updated": "2024-06-18 16:12:26"
+      },
+      "catalog": [],
+      "realName": "十九届完全模型一些小的想法! 最近闲来无事，看到了沈航某大佬开源的十九届智能车完全模型组源码，激发了一些新的想法，于是便整理出来，方便智能车新手学习。",
+      "relativePath": "/十九届完全模型一些小的想法! 最近闲来无事，看到了沈航某大佬开源的十九届智能车完全模型组源码，激发了一些新的想法，于是便整理出来，方便智能车新手学习。.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174195966,
+      "doc_id": "fsdtv1ue6y9gzobe",
+      "updated": 1718698293000,
+      "properties": {
+        "title": "JinHeMu/BaiduAI_Car: 第十九届智能车模型组",
+        "urlname": "fsdtv1ue6y9gzobe",
+        "date": "2024-06-18 16:11:32",
+        "updated": "2024-06-18 16:11:33"
+      },
+      "catalog": [],
+      "realName": "JinHeMu!BaiduAI_Car! 第十九届智能车模型组",
+      "relativePath": "/JinHeMu!BaiduAI_Car! 第十九届智能车模型组.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 174009946,
+      "doc_id": "mygzqiq1x9x0ilb6",
+      "updated": 1718599868000,
+      "properties": {
+        "title": "aiXcoder",
+        "urlname": "mygzqiq1x9x0ilb6",
+        "date": "2024-06-17 12:51:07",
+        "updated": "2024-06-17 12:51:08"
+      },
+      "catalog": [],
+      "realName": "aiXcoder",
+      "relativePath": "/aiXcoder.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 164358299,
+      "doc_id": "pkhkgxm7t1649wu9",
+      "updated": 1718283067000,
+      "properties": {
+        "title": "使用git命令将代码上传到GitHub",
+        "urlname": "pkhkgxm7t1649wu9",
+        "date": "2024-04-04 23:58:03",
+        "updated": "2024-06-13 20:51:07",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712246160504-b29b45a7-6fff-489d-a6a1-2b0e39b14488.png",
+        "description": "(7)创建一个仓库(8)填写仓库相关信息,有:仓库名,仓库描述,选择仓库公开还是私有…大家自己选择,(只有仓库名是必填的)填好仓库信息之后,点击创建!(9)点击创建之后,会显示这个页面,表明远程仓库创建成功!!!(1)找到gitbash.exe.(可以在开始菜单里面寻找)(2)因为Git是分布..."
+      },
+      "catalog": [],
+      "realName": "使用git命令将代码上传到GitHub",
+      "relativePath": "/使用git命令将代码上传到GitHub.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172985410,
+      "doc_id": "hc2e4kgn8rhsgcte",
+      "updated": 1718599207000,
+      "properties": {
+        "title": "llmchat3 - autodl",
+        "urlname": "hc2e4kgn8rhsgcte",
+        "date": "2024-06-09 03:44:22",
+        "updated": "2024-06-17 12:40:07",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1718342616482-399b7e69-548f-4d1a-9999-a32381217662.png",
+        "description": "conda create -n hc3 python=3.8 conda activate hc3  git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git cd LLaMA-Factory pip install -e..."
+      },
+      "catalog": [],
+      "realName": "llmchat3 - autodl",
+      "relativePath": "/llmchat3 - autodl.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172605103,
+      "doc_id": "mlc5o9scoiysqkft",
+      "updated": 1718019542000,
+      "properties": {
+        "title": "slim",
+        "urlname": "mlc5o9scoiysqkft",
+        "date": "2024-06-06 02:16:33",
+        "updated": "2024-06-10 19:39:02",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1717611414160-10e3ce84-3c06-4c15-8379-4b74b8716c95.png",
+        "description": "# 训练，优先选configs/slim/prune/yolov3_prune_l1_norm.yml ，信我 python tools/train.py -c configs/yolov3/yolov3_mobilenet_v1_ssld_270e_voc.yml --slim_config..."
+      },
+      "catalog": [],
+      "realName": "slim",
+      "relativePath": "/slim.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172985455,
+      "doc_id": "cogeiggdle8cx05s",
+      "updated": 1717876453000,
+      "properties": {
+        "title": "openEuler开源实习 | 线上实习 | openEuler社区官网",
+        "urlname": "cogeiggdle8cx05s",
+        "date": "2024-06-09 03:54:12",
+        "updated": "2024-06-09 03:54:13"
+      },
+      "catalog": [],
+      "realName": "openEuler开源实习 ! 线上实习 ! openEuler社区官网",
+      "relativePath": "/openEuler开源实习 ! 线上实习 ! openEuler社区官网.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171250390,
+      "doc_id": "oayq81z91mvhe8mn",
+      "updated": 1717853967000,
+      "properties": {
+        "title": "yolov10_autodl使用教程",
+        "urlname": "oayq81z91mvhe8mn",
+        "date": "2024-05-27 12:56:46",
+        "updated": "2024-06-08 21:39:27",
+        "description": "pytorch =2.00 ubuntu20.04 cuda 11.8 python3.8git clone https://github.com/THU-MIG/yolov10.git  conda create -n yolov10 python=3.9 conda init #新开一个终..."
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "oayq81z91mvhe8mn"
+        }
+      ],
+      "realName": "yolov10_autodl使用教程",
+      "relativePath": "/计算机视觉yolo/yolov10_autodl使用教程.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 171654920,
+      "doc_id": "tg96trq3oykbq17w",
+      "updated": 1717778645000,
+      "properties": {
+        "title": "interstudio训练完全模型笔记",
+        "urlname": "tg96trq3oykbq17w",
+        "date": "2024-05-30 03:25:30",
+        "updated": "2024-06-08 00:44:05",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1717245767487-976e822c-c024-441d-89b4-ebd084e5ce5e.png",
+        "description": "参考官方和非官方教程，总结一下创建环境，aistudio是手动选一选paddle就可以安装了，我们需要自己安装我的环境： cuda 11.7 python3.8（codna）创建 ，我试了一下3.7不行，至少3.8以上，要避坑啊conda create -n xunlian python=3...."
+      },
+      "catalog": [],
+      "realName": "interstudio训练完全模型笔记",
+      "relativePath": "/interstudio训练完全模型笔记.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172265702,
+      "doc_id": "pgrx3lnrmee27331",
+      "updated": 1717666273000,
+      "properties": {
+        "title": "完全模型",
+        "urlname": "pgrx3lnrmee27331",
+        "date": "2024-06-04 01:08:05",
+        "updated": "2024-06-06 17:31:13",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1717435099753-42c5857f-7b9d-4f1f-ac4c-5fae7e503613.png",
+        "description": "开手机热点，电脑，板卡连接到同一个局域网下,查找板卡的ip地址finalshell连接板卡 or ssh root@ip连接之后finalshell终端开启vncserversudo vncserver打开vncviewer,然后连接到板卡，密码 edgeboard，连接之后进入Ubuntu密..."
+      },
+      "catalog": [],
+      "realName": "完全模型",
+      "relativePath": "/完全模型.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171591620,
+      "doc_id": "fxkh4cif0xouqcvc",
+      "updated": 1717549969000,
+      "properties": {
+        "title": "在百度AIstudio上运行自己PaddleDetection所遇到的问题及解决方案_运行飞桨ai studio数据集报错-CSDN博客",
+        "urlname": "fxkh4cif0xouqcvc",
+        "date": "2024-05-29 17:44:55",
+        "updated": "2024-06-05 09:12:49",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1716975892882-fe2ca757-bc5b-429b-b864-b7aa70fb63c9.png",
+        "description": "模型训练时报错，将num_work改为0模型导出失败：RuntimeError: Can't call main_program when full_graph=False. Use paddle.jit.to_static(full_graph=True) instead.解决方案 ：对Pa..."
+      },
+      "catalog": [],
+      "realName": "在百度AIstudio上运行自己PaddleDetection所遇到的问题及解决方案_运行飞桨ai studio数据集报错-CSDN博客",
+      "relativePath": "/在百度AIstudio上运行自己PaddleDetection所遇到的问题及解决方案_运行飞桨ai studio数据集报错-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172242490,
+      "doc_id": "to1lo1fyer6gkh26",
+      "updated": 1717416625000,
+      "properties": {
+        "title": "评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办",
+        "urlname": "to1lo1fyer6gkh26",
+        "date": "2024-06-03 20:10:24",
+        "updated": "2024-06-03 20:10:25"
+      },
+      "catalog": [],
+      "realName": "评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办",
+      "relativePath": "/评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172094254,
+      "doc_id": "pg6h84xva9kpkwke",
+      "updated": 1717340097000,
+      "properties": {
+        "title": "YOLO V8语义分割模型部署_yolov8语义分割-CSDN博客",
+        "urlname": "pg6h84xva9kpkwke",
+        "date": "2024-06-02 22:54:56",
+        "updated": "2024-06-02 22:54:57"
+      },
+      "catalog": [],
+      "realName": "YOLO V8语义分割模型部署_yolov8语义分割-CSDN博客",
+      "relativePath": "/YOLO V8语义分割模型部署_yolov8语义分割-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172094035,
+      "doc_id": "xgwxlkx943o87f7n",
+      "updated": 1717339949000,
+      "properties": {
+        "title": "二、yolov8图像标注和模型训练(语义分割)_yolov8的图片标记-CSDN博客",
+        "urlname": "xgwxlkx943o87f7n",
+        "date": "2024-06-02 22:52:28",
+        "updated": "2024-06-02 22:52:29"
+      },
+      "catalog": [],
+      "realName": "二、yolov8图像标注和模型训练(语义分割)_yolov8的图片标记-CSDN博客",
+      "relativePath": "/二、yolov8图像标注和模型训练(语义分割)_yolov8的图片标记-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172093623,
+      "doc_id": "va3s9mg9gkcapp3m",
+      "updated": 1717339762000,
+      "properties": {
+        "title": "yolo实现语义分割（cityscapes数据集）附源码_yolo语义分割-CSDN博客",
+        "urlname": "va3s9mg9gkcapp3m",
+        "date": "2024-06-02 22:49:21",
+        "updated": "2024-06-02 22:49:22"
+      },
+      "catalog": [],
+      "realName": "yolo实现语义分割（cityscapes数据集）附源码_yolo语义分割-CSDN博客",
+      "relativePath": "/yolo实现语义分割（cityscapes数据集）附源码_yolo语义分割-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 172093133,
+      "doc_id": "rvqz2fims2txlzrg",
+      "updated": 1717339576000,
+      "properties": {
+        "title": "什么是语义分割？| IBM",
+        "urlname": "rvqz2fims2txlzrg",
+        "date": "2024-06-02 22:46:16",
+        "updated": "2024-06-02 22:46:16"
+      },
+      "catalog": [],
+      "realName": "什么是语义分割？! IBM",
+      "relativePath": "/什么是语义分割？! IBM.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171337311,
+      "doc_id": "rohc5upsca3uz9kd",
+      "updated": 1716997028000,
+      "properties": {
+        "title": "yolov8训练，pt导出onnx，onnx转pdmodel",
+        "urlname": "rohc5upsca3uz9kd",
+        "date": "2024-05-28 01:15:23",
+        "updated": "2024-05-29 23:37:08",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1716831865238-9acc3992-9d8e-4d22-a1e7-06256cbb1288.png",
+        "description": "#训练集划分，最好的自己采集、标注，大概统计了一下提供的开源案例的数据集，cone、crosswalk、spy、thief的数量都少于100,肯定不行的，后面还要采集 #按照yolov8文档创建train、valid、test文件夹，分别放置images和labels，数据集给的是yolov3..."
+      },
+      "catalog": [],
+      "realName": "yolov8训练，pt导出onnx，onnx转pdmodel",
+      "relativePath": "/yolov8训练，pt导出onnx，onnx转pdmodel.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171451763,
+      "doc_id": "xvtkc7ahoqnukls2",
+      "updated": 1716975632000,
+      "properties": {
+        "title": "BML Codelab",
+        "urlname": "xvtkc7ahoqnukls2",
+        "date": "2024-05-28 18:27:13",
+        "updated": "2024-05-29 17:40:32",
+        "description": "cd work/PaddleDetection-2.4.0 && pip install -r requirements.txt && python setup.py install  cd ~ unzip /home/aistudio/data/data256231/Car2024.zip ..."
+      },
+      "catalog": [],
+      "realName": "BML Codelab",
+      "relativePath": "/BML Codelab.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171365030,
+      "doc_id": "ia2mt0lofmeign0h",
+      "updated": 1716840830000,
+      "properties": {
+        "title": "实验8 WEB 服务器的部署与应用 - 云起实验室-在线实验-上云实践-阿里云开发者社区-阿里云官方实验平台-阿里云",
+        "urlname": "ia2mt0lofmeign0h",
+        "date": "2024-05-28 04:10:20",
+        "updated": "2024-05-28 04:13:50",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1716840546090-a3f5ed07-40fd-4d02-8a70-d0dd6a81f76d.png",
+        "description": "sudo yum update -y sudo yum install -y yum-utils device-mapper-persistent-data lvm2 sudo yum-config-manager --add-repo https://download.docker.com/..."
+      },
+      "catalog": [],
+      "realName": "实验8 WEB 服务器的部署与应用 - 云起实验室-在线实验-上云实践-阿里云开发者社区-阿里云官方实验平台-阿里云",
+      "relativePath": "/实验8 WEB 服务器的部署与应用 - 云起实验室-在线实验-上云实践-阿里云开发者社区-阿里云官方实验平台-阿里云.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171337578,
+      "doc_id": "bp859239q2sehunk",
+      "updated": 1716831408000,
+      "properties": {
+        "title": "YOLOV5的pt模型转Paddle的inference模型_yolov5模型转为paddle格式-CSDN博客",
+        "urlname": "bp859239q2sehunk",
+        "date": "2024-05-28 01:36:47",
+        "updated": "2024-05-28 01:36:48"
+      },
+      "catalog": [],
+      "realName": "YOLOV5的pt模型转Paddle的inference模型_yolov5模型转为paddle格式-CSDN博客",
+      "relativePath": "/YOLOV5的pt模型转Paddle的inference模型_yolov5模型转为paddle格式-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171336949,
+      "doc_id": "odg5mfozm18x9hxg",
+      "updated": 1716828847000,
+      "properties": {
+        "title": "模型转换工具 X2Paddle-PaddlePaddle深度学习平台",
+        "urlname": "odg5mfozm18x9hxg",
+        "date": "2024-05-28 00:54:06",
+        "updated": "2024-05-28 00:54:07"
+      },
+      "catalog": [],
+      "realName": "模型转换工具 X2Paddle-PaddlePaddle深度学习平台",
+      "relativePath": "/模型转换工具 X2Paddle-PaddlePaddle深度学习平台.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171263755,
+      "doc_id": "uvsp1p46m3dmzo0p",
+      "updated": 1716791580000,
+      "properties": {
+        "title": "Responder 无人机 对接911报警系统 可70秒抵达案发现场实时监控 – XiaoHu.AI学院",
+        "urlname": "uvsp1p46m3dmzo0p",
+        "date": "2024-05-27 14:32:58",
+        "updated": "2024-05-27 14:33:00"
+      },
+      "catalog": [],
+      "realName": "Responder 无人机 对接911报警系统 可70秒抵达案发现场实时监控 – XiaoHu.AI学院",
+      "relativePath": "/Responder 无人机 对接911报警系统 可70秒抵达案发现场实时监控 – XiaoHu.AI学院.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171336859,
+      "doc_id": "zu87lnrdxgu9ck8h",
+      "updated": 1716828624000,
+      "properties": {
+        "title": "YOLOv8模型转换pt-＞onnx(附上代码)_yolov8n.pt转onnx-CSDN博客",
+        "urlname": "zu87lnrdxgu9ck8h",
+        "date": "2024-05-28 00:50:23",
+        "updated": "2024-05-28 00:50:24"
+      },
+      "catalog": [],
+      "realName": "YOLOv8模型转换pt-＞onnx(附上代码)_yolov8n.pt转onnx-CSDN博客",
+      "relativePath": "/YOLOv8模型转换pt-＞onnx(附上代码)_yolov8n.pt转onnx-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 171152763,
+      "doc_id": "vzcnxa7uy4zxenya",
+      "updated": 1716721089000,
+      "properties": {
+        "title": "无标题文档",
+        "urlname": "vzcnxa7uy4zxenya",
+        "date": "2024-05-26 18:47:29",
+        "updated": "2024-05-26 18:58:09",
+        "cover": "https://cdn.nlark.com/yuque/__latex/5eea077f5ac21bbc96435fadf8969ea7.svg",
+        "description": "数学建模解决方案：园区微电网风光储协调优化配置引言本文致力于研究和优化园区微电网中风电、光伏发电与储能系统的协调配置方案。园区微电网由风光发电和主电网联合为负荷供电。为了提高风光电量在负荷中的占比，需要配置较高比例的风光发电装机容量。然而，由于园区负荷与风光发电功率时序的不匹配，可能导致弃电问..."
+      },
+      "catalog": [],
+      "realName": "无标题文档",
+      "relativePath": "/无标题文档.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170716055,
+      "doc_id": "fmc86gyyb6m89120",
+      "updated": 1716663778000,
+      "properties": {
+        "title": "语音转文字毕设",
+        "urlname": "fmc86gyyb6m89120",
+        "date": "2024-05-23 00:06:10",
+        "updated": "2024-05-26 03:02:58",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1716394233364-e01ab82a-2b15-40be-b146-9f9c4a417781.png",
+        "description": "gradio部署可以用上https://huggingface.co/spaces/wenet/wenet_demo/tree/mainwenet GitHub地址https://github.com/wenet-e2e/wenetwenent 论文地址https://zhuanlan.zhi..."
+      },
+      "catalog": [],
+      "realName": "语音转文字毕设",
+      "relativePath": "/语音转文字毕设.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170980899,
+      "doc_id": "aiiz6sbnvkcfx5f2",
+      "updated": 1716551334000,
+      "properties": {
+        "title": "毕设",
+        "urlname": "aiiz6sbnvkcfx5f2",
+        "date": "2024-05-24 19:48:07",
+        "updated": "2024-05-24 19:48:54",
+        "description": "https://github.com/ggerganov/whisper.cpp/tree/master/examples/commandhttps://github.com/ggerganov/whisper.cpp/blob/master/examples/talk-llama/READM..."
+      },
+      "catalog": [],
+      "realName": "毕设",
+      "relativePath": "/毕设.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170885112,
+      "doc_id": "ugxafqp3wzxxet0c",
+      "updated": 1716501148000,
+      "properties": {
+        "title": "mac安装brew小白指引_brew安装-CSDN博客",
+        "urlname": "ugxafqp3wzxxet0c",
+        "date": "2024-05-24 05:52:27",
+        "updated": "2024-05-24 05:52:28"
+      },
+      "catalog": [],
+      "realName": "mac安装brew小白指引_brew安装-CSDN博客",
+      "relativePath": "/mac安装brew小白指引_brew安装-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170745481,
+      "doc_id": "yxg0n6qg45pryqv9",
+      "updated": 1716414728000,
+      "properties": {
+        "title": "在 CPU 服务器上部署 ChatGLM3-6B 模型 - Hacker and Geeker's Way",
+        "urlname": "yxg0n6qg45pryqv9",
+        "date": "2024-05-23 05:52:07",
+        "updated": "2024-05-23 05:52:08"
+      },
+      "catalog": [],
+      "realName": "在 CPU 服务器上部署 ChatGLM3-6B 模型 - Hacker and Geeker's Way",
+      "relativePath": "/在 CPU 服务器上部署 ChatGLM3-6B 模型 - Hacker and Geeker's Way.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170745452,
+      "doc_id": "ig5ggi0lqxcqe982",
+      "updated": 1716413954000,
+      "properties": {
+        "title": "指定 Whisper 输出为简体中文 - Wulu's Blog",
+        "urlname": "ig5ggi0lqxcqe982",
+        "date": "2024-05-23 05:39:13",
+        "updated": "2024-05-23 05:39:14"
+      },
+      "catalog": [],
+      "realName": "指定 Whisper 输出为简体中文 - Wulu's Blog",
+      "relativePath": "/指定 Whisper 输出为简体中文 - Wulu's Blog.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170745340,
+      "doc_id": "yfqz2volm1nar9ev",
+      "updated": 1716412286000,
+      "properties": {
+        "title": "Ubuntu下安装SDL2（记录一下自己的踩的坑）_ubuntu sdl2-CSDN博客",
+        "urlname": "yfqz2volm1nar9ev",
+        "date": "2024-05-23 05:11:25",
+        "updated": "2024-05-23 05:11:26"
+      },
+      "catalog": [],
+      "realName": "Ubuntu下安装SDL2（记录一下自己的踩的坑）_ubuntu sdl2-CSDN博客",
+      "relativePath": "/Ubuntu下安装SDL2（记录一下自己的踩的坑）_ubuntu sdl2-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170717525,
+      "doc_id": "un3wta0r3l04vgpa",
+      "updated": 1716396060000,
+      "properties": {
+        "title": "talkGPT4All: 基于GPT4All的智能语音聊天程序 - 知乎",
+        "urlname": "un3wta0r3l04vgpa",
+        "date": "2024-05-23 00:40:59",
+        "updated": "2024-05-23 00:41:00"
+      },
+      "catalog": [],
+      "realName": "talkGPT4All! 基于GPT4All的智能语音聊天程序 - 知乎",
+      "relativePath": "/talkGPT4All! 基于GPT4All的智能语音聊天程序 - 知乎.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170701365,
+      "doc_id": "co97gy6zg0hc8vlm",
+      "updated": 1716382534000,
+      "properties": {
+        "title": "YOLOSHOW 中文版 - YOLOv5/YOLOv7/YOLOv8/YOLOv9/RTDETR GUI based on Pyside6 | SwimmingLiu's Blog",
+        "urlname": "co97gy6zg0hc8vlm",
+        "date": "2024-05-22 20:55:34",
+        "updated": "2024-05-22 20:55:34"
+      },
+      "catalog": [],
+      "realName": "YOLOSHOW 中文版 - YOLOv5!YOLOv7!YOLOv8!YOLOv9!RTDETR GUI based on Pyside6 ! SwimmingLiu's Blog",
+      "relativePath": "/YOLOSHOW 中文版 - YOLOv5!YOLOv7!YOLOv8!YOLOv9!RTDETR GUI based on Pyside6 ! SwimmingLiu's Blog.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170412794,
+      "doc_id": "mz4ihbk1532iiwfg",
+      "updated": 1716314470000,
+      "properties": {
+        "title": "ollama 部署 InternLM2 实践文档",
+        "urlname": "mz4ihbk1532iiwfg",
+        "date": "2024-05-20 22:52:16",
+        "updated": "2024-05-22 02:01:10",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1716224933039-c73e05d0-80ef-4655-9089-806c5ebe2c77.png",
+        "description": "前言      ollama框架支持多种格式的模型导入，包括但不限于GGUF、PyTorch和Safetensors格式。本文旨在为开发者提供一个详细的指南，介绍如何将这些不同格式的模型导入到ollama框架中。本文主要以InterLM2系列模型，windows操作系统为主，其他大模型和操作系..."
+      },
+      "catalog": [],
+      "realName": "ollama 部署 InternLM2 实践文档",
+      "relativePath": "/ollama 部署 InternLM2 实践文档.md",
+      "needUpdate": 1,
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170561608,
+      "doc_id": "ayopxg5cu4ma6bty",
+      "updated": 1716300422000,
+      "properties": {
+        "title": "Ollama 运行 GGUF 模型 - 蝈蝈俊 - 博客园",
+        "urlname": "ayopxg5cu4ma6bty",
+        "date": "2024-05-21 22:07:01",
+        "updated": "2024-05-21 22:07:02"
+      },
+      "catalog": [],
+      "realName": "Ollama 运行 GGUF 模型 - 蝈蝈俊 - 博客园",
+      "relativePath": "/Ollama 运行 GGUF 模型 - 蝈蝈俊 - 博客园.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170699729,
+      "doc_id": "ihtqn63e5oiklhp9",
+      "updated": 1716381205000,
+      "properties": {
+        "title": "【实战解析】YOLOv9全流程训练至优化终极指南_yolov9教程-CSDN博客",
+        "urlname": "ihtqn63e5oiklhp9",
+        "date": "2024-05-22 20:33:25",
+        "updated": "2024-05-22 20:33:25"
+      },
+      "catalog": [],
+      "realName": "【实战解析】YOLOv9全流程训练至优化终极指南_yolov9教程-CSDN博客",
+      "relativePath": "/【实战解析】YOLOv9全流程训练至优化终极指南_yolov9教程-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170417282,
+      "doc_id": "mum6ste24evx5ryf",
+      "updated": 1716221873000,
+      "properties": {
+        "title": "自定义数据集使用llama_factory微调模型并导入ollama_ollama下载的模型能通过llamafactory训练吗-CSDN博客",
+        "urlname": "mum6ste24evx5ryf",
+        "date": "2024-05-21 00:17:52",
+        "updated": "2024-05-21 00:17:53"
+      },
+      "catalog": [],
+      "realName": "自定义数据集使用llama_factory微调模型并导入ollama_ollama下载的模型能通过llamafactory训练吗-CSDN博客",
+      "relativePath": "/自定义数据集使用llama_factory微调模型并导入ollama_ollama下载的模型能通过llamafactory训练吗-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170265247,
+      "doc_id": "id013z1a76u0ex7o",
+      "updated": 1716126137000,
+      "properties": {
+        "title": "ollama 使用自定义大模型_ollama下载的模型使用-CSDN博客",
+        "urlname": "id013z1a76u0ex7o",
+        "date": "2024-05-19 21:42:17",
+        "updated": "2024-05-19 21:42:17"
+      },
+      "catalog": [],
+      "realName": "ollama 使用自定义大模型_ollama下载的模型使用-CSDN博客",
+      "relativePath": "/ollama 使用自定义大模型_ollama下载的模型使用-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170100530,
+      "doc_id": "eiord3wplepev0vs",
+      "updated": 1715953831000,
+      "properties": {
+        "title": "yolov8目标视频检测推理",
+        "urlname": "eiord3wplepev0vs",
+        "date": "2024-05-17 21:49:02",
+        "updated": "2024-05-17 21:50:31",
+        "description": "yolo task=detect mode=predict model=v8best.pt source='dianchi.mp4' show=True都放在根目录下，要么取绝对路径"
+      },
+      "catalog": [],
+      "realName": "yolov8目标视频检测推理",
+      "relativePath": "/yolov8目标视频检测推理.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170067861,
+      "doc_id": "blxaqtxo6uso1gpz",
+      "updated": 1715933480000,
+      "properties": {
+        "title": "文档 · AtomGit评测赛事官方仓库 · AtomGit",
+        "urlname": "blxaqtxo6uso1gpz",
+        "date": "2024-05-17 16:11:19",
+        "updated": "2024-05-17 16:11:20"
+      },
+      "catalog": [],
+      "realName": "文档 · AtomGit评测赛事官方仓库 · AtomGit",
+      "relativePath": "/文档 · AtomGit评测赛事官方仓库 · AtomGit.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170038806,
+      "doc_id": "tbnlfggqkhb279lt",
+      "updated": 1715924228000,
+      "properties": {
+        "title": "测评提交",
+        "urlname": "tbnlfggqkhb279lt",
+        "date": "2024-05-17 13:29:53",
+        "updated": "2024-05-17 13:37:08",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715923799175-d53dd90f-8ac9-48ea-ad2b-6397e273a985.png",
+        "description": "大赛报名姓名：comefly阿里云账号：aliyun4051250644具体操作操作步骤        1.选择免费资源软件安装配置        1.安装anolis-epao-release包，再安装依赖，更新pip，安装 git lfs以便于大文件传输yum install -y ano..."
+      },
+      "catalog": [],
+      "realName": "测评提交",
+      "relativePath": "/测评提交.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169889923,
+      "doc_id": "df0bpz78c81f7qk0",
+      "updated": 1715833782000,
+      "properties": {
+        "title": "大规模中文开源文本训练数据集的几点启发：兼看两个知识图谱与大模型的练手竞赛",
+        "urlname": "df0bpz78c81f7qk0",
+        "date": "2024-05-16 12:29:41",
+        "updated": "2024-05-16 12:29:42"
+      },
+      "catalog": [],
+      "realName": "大规模中文开源文本训练数据集的几点启发：兼看两个知识图谱与大模型的练手竞赛",
+      "relativePath": "/大规模中文开源文本训练数据集的几点启发：兼看两个知识图谱与大模型的练手竞赛.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169889875,
+      "doc_id": "zo9bsa6k6384o20k",
+      "updated": 1715833747000,
+      "properties": {
+        "title": "评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办",
+        "urlname": "zo9bsa6k6384o20k",
+        "date": "2024-05-16 12:29:07",
+        "updated": "2024-05-16 12:29:07"
+      },
+      "catalog": [],
+      "realName": "评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办_zo9bsa6k6384o20k",
+      "relativePath": "/评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办_zo9bsa6k6384o20k.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 170374618,
+      "doc_id": "gg8y036gd13ts28g",
+      "updated": 1716203349000,
+      "properties": {
+        "title": "llama.cpp量化模型",
+        "urlname": "gg8y036gd13ts28g",
+        "date": "2024-05-20 16:18:30",
+        "updated": "2024-05-20 19:09:09",
+        "description": "参考文章https://blog.csdn.net/spiderwower/article/details/138506271https://github.com/ollama/ollama/blob/main/docs/import.mdhttps://zhuanlan.zhihu.com/..."
+      },
+      "catalog": [],
+      "realName": "llama.cpp量化模型",
+      "relativePath": "/llama.cpp量化模型.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169743954,
+      "doc_id": "ta6qmq1383lo384h",
+      "updated": 1715753675000,
+      "properties": {
+        "title": "计算机考研篇 - 欢迎来到这里",
+        "urlname": "ta6qmq1383lo384h",
+        "date": "2024-05-15 14:13:45",
+        "updated": "2024-05-15 14:14:35",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715753530315-d108d66f-7b3b-4112-99da-7ccb72669994.png",
+        "description": "Tips 博客已经可以评论，有问题可以留言，我会将问题加入到该文章中。博客依托github服务器，所以打开可能会慢，后续会用自己的服务器。前言 我的备考时间很长，一年多，仅供参考，不建议拉这么长，如果我准备保研了是不是结果会不一样。好在沉浮一年，似乎结果是好的，拟录取还没出，实际还是有点点点点..."
+      },
+      "catalog": [],
+      "realName": "计算机考研篇 - 欢迎来到这里",
+      "relativePath": "/计算机考研篇 - 欢迎来到这里.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 165053471,
+      "doc_id": "gm0xwxiyr6npkgcv",
+      "updated": 1715689206000,
+      "properties": {
+        "title": "Langchain-ChatChat Windows部署踩坑及问题解决 - 知乎",
+        "urlname": "gm0xwxiyr6npkgcv",
+        "date": "2024-04-11 00:25:36",
+        "updated": "2024-05-14 20:20:06",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715672344028-169a6715-be9a-4993-b8df-5e177a0dad15.png",
+        "description": "langchain-chatchat踩坑来自: Langchain-ChatChat Windows部署踩坑及问题解决 - 知乎conda create -n llmchat python=3.11  conda activate llmchat# 拉取仓库 git clone https:/..."
+      },
+      "catalog": [],
+      "realName": "Langchain-ChatChat Windows部署踩坑及问题解决 - 知乎",
+      "relativePath": "/Langchain-ChatChat Windows部署踩坑及问题解决 - 知乎.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169108966,
+      "doc_id": "rttocryrgosx5v3t",
+      "updated": 1715339482000,
+      "properties": {
+        "title": "jina处理pdf文档",
+        "urlname": "rttocryrgosx5v3t",
+        "date": "2024-05-10 18:57:26",
+        "updated": "2024-05-10 19:11:22",
+        "description": "第一个就是我需要的，看好，chatlawhttps://zhuanlan.zhihu.com/p/651179780?utm_id=0https://zhuanlan.zhihu.com/p/520238450https://zhuanlan.zhihu.com/p/692927194?utm..."
+      },
+      "catalog": [],
+      "realName": "jina处理pdf文档",
+      "relativePath": "/jina处理pdf文档.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169696371,
+      "doc_id": "pcgpyn9bbffz496b",
+      "updated": 1715731584000,
+      "properties": {
+        "title": "房屋建筑学设计",
+        "urlname": "pcgpyn9bbffz496b",
+        "date": "2024-05-15 08:04:43",
+        "updated": "2024-05-15 08:06:24",
+        "description": "A3 仿宋  1：100  or 1:200"
+      },
+      "catalog": [],
+      "realName": "房屋建筑学设计",
+      "relativePath": "/房屋建筑学设计.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169626555,
+      "doc_id": "ud3f5gb9ymd5ra3m",
+      "updated": 1715678655000,
+      "properties": {
+        "title": "保姆级教程：使用Cloudflare+Telegraph搭建零成本图床系统",
+        "urlname": "ud3f5gb9ymd5ra3m",
+        "date": "2024-05-14 17:24:15",
+        "updated": "2024-05-14 17:24:15"
+      },
+      "catalog": [],
+      "realName": "保姆级教程：使用Cloudflare+Telegraph搭建零成本图床系统",
+      "relativePath": "/保姆级教程：使用Cloudflare+Telegraph搭建零成本图床系统.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169108710,
+      "doc_id": "epwx0f8f28y30ycb",
+      "updated": 1715338441000,
+      "properties": {
+        "title": "消防glm3数据集构造",
+        "urlname": "epwx0f8f28y30ycb",
+        "date": "2024-05-10 18:53:29",
+        "updated": "2024-05-10 18:54:01",
+        "description": "当然可以，我将为您设计一个新的提示词，其中包含了将提取的信息以JSON格式返回的功能。请看以下代码块中的提示词：```markdown- Role: 图谱实体知识结构化专家- Background: 用户需要从文本中抽取特定类型的实体实例及其属性信息，并以JSON格式返回，特别是针对消防规范条..."
+      },
+      "catalog": [],
+      "realName": "消防glm3数据集构造",
+      "relativePath": "/消防glm3数据集构造.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169037200,
+      "doc_id": "me7oeys7m0wsixb3",
+      "updated": 1715318113000,
+      "properties": {
+        "title": "A题",
+        "urlname": "me7oeys7m0wsixb3",
+        "date": "2024-05-10 11:16:01",
+        "updated": "2024-05-10 13:15:13",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715311559118-cf43ae5b-1e53-469e-9172-401b78e115cc.png",
+        "description": "划了一下感觉重要的点，有针对的搜一下资料📎2024年第九届数维杯大学生数学建模挑战赛A题.pdf2024年第九届数维杯大学生数学建模挑战赛A题.pdf知网相关资料筛一下具体的流程，或者公式，思路等等，随便找了几个，可以继续找，飞行器动力学的一些论文，可以用到计算飞行器自身的三维空间位置上📎..."
+      },
+      "catalog": [],
+      "realName": "A题",
+      "relativePath": "/A题.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168994861,
+      "doc_id": "bdtmonr8i955w620",
+      "updated": 1715277845000,
+      "properties": {
+        "title": "知识图谱生成",
+        "urlname": "bdtmonr8i955w620",
+        "date": "2024-05-10 02:02:59",
+        "updated": "2024-05-10 02:04:05",
+        "description": "简直yyds，今天刚好看到，急需啊 ，来源：【[推荐] 将ChatGPT 可视化为知识图谱-哔哩哔哩】 https://b23.tv/lMiccjShttps://infranodus.com/#pricing"
+      },
+      "catalog": [],
+      "realName": "知识图谱生成",
+      "relativePath": "/知识图谱生成.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 169107809,
+      "doc_id": "sbhcqqz5evd5mnkm",
+      "updated": 1715337659000,
+      "properties": {
+        "title": "深度学习好书推荐",
+        "urlname": "sbhcqqz5evd5mnkm",
+        "date": "2024-05-10 18:39:09",
+        "updated": "2024-05-10 18:40:59",
+        "description": "https://zh.d2l.ai/index.html一站式ai网站https://app.anakin.ai"
+      },
+      "catalog": [],
+      "realName": "深度学习好书推荐",
+      "relativePath": "/深度学习好书推荐.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168994898,
+      "doc_id": "wwgne9rg6it81myy",
+      "updated": 1715278157000,
+      "properties": {
+        "title": "无标题文档",
+        "urlname": "wwgne9rg6it81myy",
+        "date": "2024-05-10 02:09:03",
+        "updated": "2024-05-10 02:09:17",
+        "description": "6227598222236447----日期:12/2027----名字随你写类似于:Wan Yue----CVV:740"
+      },
+      "catalog": [],
+      "realName": "无标题文档_wwgne9rg6it81myy",
+      "relativePath": "/无标题文档_wwgne9rg6it81myy.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168981426,
+      "doc_id": "lzp5g0vgkn6iew4g",
+      "updated": 1715275517000,
+      "properties": {
+        "title": "internlm项目代办",
+        "urlname": "lzp5g0vgkn6iew4g",
+        "date": "2024-05-10 01:24:33",
+        "updated": "2024-05-10 01:25:17",
+        "description": "去登记项目interLM项目打算做一个论文ai成分检测，和一个心理健康抑郁患者防emo的参考项目链接https://github.com/fslongjin/textrecogn【我把某普AI检测开源了！！！-哔哩哔哩】 https://b23.tv/Rd7JwLAemo参考https://w..."
+      },
+      "catalog": [],
+      "realName": "internlm项目代办",
+      "relativePath": "/internlm项目代办.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168912415,
+      "doc_id": "zmztzz9b1vfsbu8g",
+      "updated": 1715250170000,
+      "properties": {
+        "title": "技术文档",
+        "urlname": "zmztzz9b1vfsbu8g",
+        "date": "2024-05-09 15:00:00",
+        "updated": "2024-05-09 18:22:50",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715250134174-e7acd971-2ac6-4df6-9b57-65200a1474e5.png",
+        "description": "本文从基座模型选择、模型整体架构、数据设计、训练微调四个角度总结垂直领域大模型微调经验。其中数据设计和训练微调是重点。1.基座模型选择信息规范类大模型微调怎么选择大模型推荐ChatGLM3,Qwen,InterLLM模型在多个长文本应用场景下对 ChatGLM3-6B-32K 进行了人工评估测..."
+      },
+      "catalog": [],
+      "realName": "技术文档",
+      "relativePath": "/技术文档.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168951258,
+      "doc_id": "qqn1a2xq5wn1n8hl",
+      "updated": 1715266648000,
+      "properties": {
+        "title": "快速开始",
+        "urlname": "qqn1a2xq5wn1n8hl",
+        "date": "2024-05-09 18:31:33",
+        "updated": "2024-05-09 22:57:28",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715252505455-3f686e48-ef52-4396-be93-13047f1f0b3c.png",
+        "description": "整体方向开发研究背景细节展示部署过程中的主要操作与踩坑记录langchianchatchat+chatglm3-6b+bge-large-zh-v1.5conda create -n llmchat python=3.11  conda activate llmchat # 拉取仓库 git ..."
+      },
+      "catalog": [],
+      "realName": "快速开始",
+      "relativePath": "/快速开始.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168030002,
+      "doc_id": "cthosepubbm3vyxu",
+      "updated": 1715265486000,
+      "properties": {
+        "title": "chatglm3-6b llama-factory 微调",
+        "urlname": "cthosepubbm3vyxu",
+        "date": "2024-05-01 22:35:28",
+        "updated": "2024-05-09 22:38:06",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714574152101-c3f9a110-ba40-42a2-b28c-80787a73513d.png",
+        "description": "隔离环境很必要安装依赖git clone https://github.com/hiyouga/LLaMA-Factory.git conda create -n llama_factory python=3.10 conda activate llama_factory cd LLaMA-F..."
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "cthosepubbm3vyxu"
+        }
+      ],
+      "realName": "chatglm3-6b llama-factory 微调",
+      "relativePath": "/ai模型炼丹/chatglm3-6b llama-factory 微调.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 168900406,
+      "doc_id": "ofeofs71avqnzgml",
+      "updated": 1715249987000,
+      "properties": {
+        "title": "ChatGLM3-Nofire消防规范问答模型是什么",
+        "urlname": "ofeofs71avqnzgml",
+        "date": "2024-05-09 13:56:57",
+        "updated": "2024-05-09 18:19:47",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715249792883-836e71ca-7305-4ced-85e5-ed2238c4124c.png",
+        "description": "介绍     ChatGLM3-Nofire消防规范问答模型是我们基于清华大学KEG实验室与智谱AI发布的ChatGLM3系列的ChatGLM3-6B模型经过对消防领域多个专业规范PDF进行知识抽取构建的QA问答数据集多次Lora微调得到的可靠、专业、智能的问答模型，后续我们会逐步对模型进行优..."
+      },
+      "catalog": [],
+      "realName": "ChatGLM3-Nofire消防规范问答模型是什么",
+      "relativePath": "/ChatGLM3-Nofire消防规范问答模型是什么.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168746434,
+      "doc_id": "antg9s0km3gvyzzd",
+      "updated": 1715148147000,
+      "properties": {
+        "title": "安装教程",
+        "urlname": "antg9s0km3gvyzzd",
+        "date": "2024-05-08 12:41:33",
+        "updated": "2024-05-08 14:02:27",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1715143454392-f8ae0c4f-ba97-48c4-8689-47630186979e.png",
+        "description": "docker run --rm --net=host -v /root/openspg:/code \\   -it openspg/openspg-python:latest \\   \"/bin/bash\"# 容器启动后，进入/code目录，即openspg项目源码目录下的code目录 cd ..."
+      },
+      "catalog": [
+        {
+          "title": "OneKE/openspg",
+          "doc_id": "antg9s0km3gvyzzd"
+        }
+      ],
+      "realName": "安装教程",
+      "relativePath": "/OneKE/openspg/安装教程.md",
+      "docPath": "docs/docs/OneKE/openspg"
+    },
+    {
+      "id": 168748860,
+      "doc_id": "xg1lwhovk9sqovag",
+      "updated": 1715145159000,
+      "properties": {
+        "title": "ChatGPT+SmartKG 3分钟生成「哈利波特」知识图谱-腾讯云开发者社区-腾讯云",
+        "urlname": "xg1lwhovk9sqovag",
+        "date": "2024-05-08 13:12:38",
+        "updated": "2024-05-08 13:12:39"
+      },
+      "catalog": [],
+      "realName": "ChatGPT+SmartKG 3分钟生成「哈利波特」知识图谱-腾讯云开发者社区-腾讯云",
+      "relativePath": "/ChatGPT+SmartKG 3分钟生成「哈利波特」知识图谱-腾讯云开发者社区-腾讯云.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168748833,
+      "doc_id": "hiegiimqo4i22g9k",
+      "updated": 1715145145000,
+      "properties": {
+        "title": "与 AI 同行，利用 ChatGLM 构建知识图谱-腾讯云开发者社区-腾讯云",
+        "urlname": "hiegiimqo4i22g9k",
+        "date": "2024-05-08 13:12:25",
+        "updated": "2024-05-08 13:12:25"
+      },
+      "catalog": [],
+      "realName": "与 AI 同行，利用 ChatGLM 构建知识图谱-腾讯云开发者社区-腾讯云",
+      "relativePath": "/与 AI 同行，利用 ChatGLM 构建知识图谱-腾讯云开发者社区-腾讯云.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168747011,
+      "doc_id": "agntgnty7eh2hgrk",
+      "updated": 1715143796000,
+      "properties": {
+        "title": "Centos7下安装docker compose",
+        "urlname": "agntgnty7eh2hgrk",
+        "date": "2024-05-08 12:49:55",
+        "updated": "2024-05-08 12:49:56"
+      },
+      "catalog": [],
+      "realName": "Centos7下安装docker compose",
+      "relativePath": "/Centos7下安装docker compose.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168661249,
+      "doc_id": "dsnosx1mrmq3zchk",
+      "updated": 1715089079000,
+      "properties": {
+        "title": "NAS下搭建一个全功能花哨的自托管监控工具—uptime-kuma - 知乎",
+        "urlname": "dsnosx1mrmq3zchk",
+        "date": "2024-05-07 21:37:57",
+        "updated": "2024-05-07 21:37:59"
+      },
+      "catalog": [],
+      "realName": "NAS下搭建一个全功能花哨的自托管监控工具—uptime-kuma - 知乎",
+      "relativePath": "/NAS下搭建一个全功能花哨的自托管监控工具—uptime-kuma - 知乎.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166493939,
+      "doc_id": "ninymiigeks8urxa",
+      "updated": 1715087540000,
+      "properties": {
+        "title": "Webos私有云 | 部署教程",
+        "urlname": "ninymiigeks8urxa",
+        "date": "2024-04-20 23:09:26",
+        "updated": "2024-05-07 21:12:20",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713625352124-4b90e36f-9cc9-45b8-8dfe-6cdf01a94f78.png",
+        "description": "官网https://os.tenfell.cn/doc/linux环境部署 一键命令if [ -f /usr/bin/curl ];then curl -sSO https://support.tenfell.cn/install.sh;else wget -O install.sh http..."
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "ninymiigeks8urxa"
+        }
+      ],
+      "realName": "Webos私有云 ! 部署教程",
+      "relativePath": "/实验室istore/nas/Webos私有云 ! 部署教程.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 168513300,
+      "doc_id": "mimcc7g10lx628zf",
+      "updated": 1715007447000,
+      "properties": {
+        "title": "PDF自动化处理",
+        "urlname": "mimcc7g10lx628zf",
+        "date": "2024-05-06 22:57:26",
+        "updated": "2024-05-06 22:57:27"
+      },
+      "catalog": [],
+      "realName": "PDF自动化处理",
+      "relativePath": "/PDF自动化处理.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168125075,
+      "doc_id": "fbck93mzpqlgpiez",
+      "updated": 1714756959000,
+      "properties": {
+        "title": "简化操作版训练chatglm3-6b",
+        "urlname": "fbck93mzpqlgpiez",
+        "date": "2024-05-03 02:23:36",
+        "updated": "2024-05-04 01:22:39",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714675523798-46314ee3-ce22-405c-a0a3-ae186e17c747.png",
+        "description": "/root/ChatAT上传ChatAT压缩包，unzip解压缩上传 requirements.txt文件，我等会放进去，就不用上传了-------------------------------------------------------------------📎ChatAT.zip ..."
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "fbck93mzpqlgpiez"
+        }
+      ],
+      "realName": "简化操作版训练chatglm3-6b",
+      "relativePath": "/ai模型炼丹/简化操作版训练chatglm3-6b.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 168348120,
+      "doc_id": "mn1hq9ifga10g4t5",
+      "updated": 1714920943000,
+      "properties": {
+        "title": "yolov9-autodl使用教程",
+        "urlname": "mn1hq9ifga10g4t5",
+        "date": "2024-05-05 21:57:08",
+        "updated": "2024-05-05 22:55:43",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714918221790-ec398059-efce-4bed-aa86-62f79f8bfa6e.png",
+        "description": "yolov9介绍论文：YOLOv9: Learning What You Want to Learn Using Programmable Gradient Informationyolov9文件夹说明.├── LICENSE.md├── README.md├── __pycache__│  ..."
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "mn1hq9ifga10g4t5"
+        }
+      ],
+      "realName": "yolov9-autodl使用教程",
+      "relativePath": "/计算机视觉yolo/yolov9-autodl使用教程.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 168174190,
+      "doc_id": "zc8ike56mk3qkfde",
+      "updated": 1714740644000,
+      "properties": {
+        "title": "阿里云盘获取Token教程 - 知乎",
+        "urlname": "zc8ike56mk3qkfde",
+        "date": "2024-05-03 20:50:44",
+        "updated": "2024-05-03 20:50:44"
+      },
+      "catalog": [],
+      "realName": "阿里云盘获取Token教程 - 知乎",
+      "relativePath": "/阿里云盘获取Token教程 - 知乎.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168090164,
+      "doc_id": "hy7awpg146hf8rt6",
+      "updated": 1714639178000,
+      "properties": {
+        "title": "【语料】百度的中文问答数据集WebQA - 科学空间|Scientific Spaces",
+        "urlname": "hy7awpg146hf8rt6",
+        "date": "2024-05-02 16:39:37",
+        "updated": "2024-05-02 16:39:38"
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "hy7awpg146hf8rt6"
+        }
+      ],
+      "realName": "【语料】百度的中文问答数据集WebQA - 科学空间!Scientific Spaces",
+      "relativePath": "/ai模型炼丹/【语料】百度的中文问答数据集WebQA - 科学空间!Scientific Spaces.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 168112316,
+      "doc_id": "ulasoiw0soumw1d4",
+      "updated": 1714669253000,
+      "properties": {
+        "title": "THUDM/chatglm3-6b  hugging face镜像下载",
+        "urlname": "ulasoiw0soumw1d4",
+        "date": "2024-05-03 01:00:53",
+        "updated": "2024-05-03 01:00:53"
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "ulasoiw0soumw1d4"
+        }
+      ],
+      "realName": "THUDM!chatglm3-6b  hugging face镜像下载",
+      "relativePath": "/ai模型炼丹/THUDM!chatglm3-6b  hugging face镜像下载.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 166381923,
+      "doc_id": "qwrxa74itrdnh6bt",
+      "updated": 1714631186000,
+      "properties": {
+        "title": "工业消防AI模型Nofire项目",
+        "urlname": "qwrxa74itrdnh6bt",
+        "date": "2024-04-19 21:07:18",
+        "updated": "2024-05-02 14:26:26",
+        "cover": "https://cdn.nlark.com/yuque/0/2022/jpeg/956523/1657187439577-9e5f23b1-b37f-41ff-989b-646e87f85d6d.jpeg",
+        "description": "项目背景大家都调侃说2023年是AI元年，不得不说AI在我们生活中逐渐扮演着越来越重要的角色，如何有效的把AI模型结合当前生产生活实际显得尤为重要，基于此并结合专业知识，我们想打造一款工业消防类型的AI知识库模型，在现有的AI模型基础之上，使用微调技术，收集所需数据集进行微调。想法来源：htt..."
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "qwrxa74itrdnh6bt"
+        }
+      ],
+      "realName": "工业消防AI模型Nofire项目",
+      "relativePath": "/ai模型炼丹/工业消防AI模型Nofire项目.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 168082932,
+      "doc_id": "ishzmdr927dqnpl9",
+      "updated": 1714630026000,
+      "properties": {
+        "title": "知识图谱应用——煤矿安全知识图谱构建技术研究学习_煤矿知识图谱-CSDN博客",
+        "urlname": "ishzmdr927dqnpl9",
+        "date": "2024-05-02 14:07:05",
+        "updated": "2024-05-02 14:07:06"
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "ishzmdr927dqnpl9"
+        }
+      ],
+      "realName": "知识图谱应用——煤矿安全知识图谱构建技术研究学习_煤矿知识图谱-CSDN博客",
+      "relativePath": "/ai模型炼丹/知识图谱应用——煤矿安全知识图谱构建技术研究学习_煤矿知识图谱-CSDN博客.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 167388114,
+      "doc_id": "ek0nap2mf79bc3ke",
+      "updated": 1714629450000,
+      "properties": {
+        "title": "modelscope模型的上传 \n\n- 使用git上传（windows需要安装git，linux一般都安装过git）",
+        "urlname": "ek0nap2mf79bc3ke",
+        "date": "2024-04-26 20:00:02",
+        "updated": "2024-05-02 13:57:30",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714628219886-3f094857-0679-49bc-bae6-4e0846dbf25e.png",
+        "description": "#没安装过lfs的安装一下，上传大文件用 git lfs install  # 本地克隆仓库，这种oauth2方法我在internstudio和本地电脑都可以，但是在autodl不行 git clone https://oauth2:your_git_token@www.modelscope...."
+      },
+      "catalog": [],
+      "realName": "modelscope模型的上传 !- 使用git上传（windows需要安装git，linux一般都安装过git）",
+      "relativePath": "/modelscope模型的上传 !- 使用git上传（windows需要安装git，linux一般都安装过git）.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166251844,
+      "doc_id": "mzyitgt77tm9fqcl",
+      "updated": 1714574302000,
+      "properties": {
+        "title": "paddle ocr 部署",
+        "urlname": "mzyitgt77tm9fqcl",
+        "date": "2024-04-19 00:20:30",
+        "updated": "2024-05-01 22:38:22",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713463742536-1c3eb60a-8186-415c-a6be-94bb749cf10c.png",
+        "description": "conda create -n ocr python==3.9 conda activate ocr   cd ocr git clone https://gitcode.com/PaddlePaddle/PaddleOCR.git  cd PaddleOCR pip install -r r..."
+      },
+      "catalog": [],
+      "realName": "paddle ocr 部署",
+      "relativePath": "/paddle ocr 部署.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 168017796,
+      "doc_id": "hw8r8kdhklntwq2t",
+      "updated": 1714574130000,
+      "properties": {
+        "title": "训练能跑通了,但是我这边训练的人设好像没啥效果,是训练参数问题还是训练数据问题 · Issue #59 · mymusise/ChatGLM-Tuning",
+        "urlname": "hw8r8kdhklntwq2t",
+        "date": "2024-05-01 18:36:31",
+        "updated": "2024-05-01 22:35:30",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714574105716-0383621a-1d18-4911-8a15-2dfb202039b7.png",
+        "description": "https://github.com/mymusise/ChatGLM-Tuning/issues/59数据集准备参考https://github.com/abachaa/Medication_QA_MedInfo2019教程：https://github.com/InternLM/Tutor..."
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "hw8r8kdhklntwq2t"
+        }
+      ],
+      "realName": "训练能跑通了,但是我这边训练的人设好像没啥效果,是训练参数问题还是训练数据问题 · Issue #59 · mymusise!ChatGLM-Tuning",
+      "relativePath": "/ai模型炼丹/训练能跑通了,但是我这边训练的人设好像没啥效果,是训练参数问题还是训练数据问题 · Issue #59 · mymusise!ChatGLM-Tuning.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 168021797,
+      "doc_id": "spwnyvq9zz6t2mb8",
+      "updated": 1714565397000,
+      "properties": {
+        "title": "ai换衣",
+        "urlname": "spwnyvq9zz6t2mb8",
+        "date": "2024-05-01 20:09:16",
+        "updated": "2024-05-01 20:09:57",
+        "description": "https://gothree.aitoolforgocloth.com/https://www.nudify.asia/register?code=QPSLYJ仅供参考"
+      },
+      "catalog": [
+        {
+          "title": "ai模型炼丹",
+          "doc_id": "spwnyvq9zz6t2mb8"
+        }
+      ],
+      "realName": "ai换衣",
+      "relativePath": "/ai模型炼丹/ai换衣.md",
+      "docPath": "docs/docs/ai模型炼丹"
+    },
+    {
+      "id": 167789414,
+      "doc_id": "pivnc8fvqwda6qe3",
+      "updated": 1714393254000,
+      "properties": {
+        "title": "Yolov8如何在训练意外中断后接续训练",
+        "urlname": "pivnc8fvqwda6qe3",
+        "date": "2024-04-29 20:20:54",
+        "updated": "2024-04-29 20:20:54"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "pivnc8fvqwda6qe3"
+        }
+      ],
+      "realName": "Yolov8如何在训练意外中断后接续训练",
+      "relativePath": "/计算机视觉yolo/Yolov8如何在训练意外中断后接续训练.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 167649831,
+      "doc_id": "xi9e8rs88d8aa4ny",
+      "updated": 1716830236000,
+      "properties": {
+        "title": "手把手实现 | 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】",
+        "urlname": "xi9e8rs88d8aa4ny",
+        "date": "2024-04-28 21:52:59",
+        "updated": "2024-05-28 01:17:16",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714311346129-38bac7e7-90a3-487b-9902-4c14bca31429.png",
+        "description": "步骤：#拉git clone https://github.com/ultralytics/ultralytics  #进入ultralytics文件夹 cd ultralytics-main/ultralytics #安装依赖包 pip install ultralytics  or  pi..."
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "xi9e8rs88d8aa4ny"
+        }
+      ],
+      "realName": "手把手实现 ! 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】",
+      "relativePath": "/计算机视觉yolo/手把手实现 ! 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 167625489,
+      "doc_id": "gb06apih5youo8lh",
+      "updated": 1714298084000,
+      "properties": {
+        "title": "Anaconda如何切换国内镜像源",
+        "urlname": "gb06apih5youo8lh",
+        "date": "2024-04-28 17:54:44",
+        "updated": "2024-04-28 17:54:44"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "gb06apih5youo8lh"
+        }
+      ],
+      "realName": "Anaconda如何切换国内镜像源",
+      "relativePath": "/计算机视觉yolo/Anaconda如何切换国内镜像源.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 168015275,
+      "doc_id": "gesuxmy2mywh1ox7",
+      "updated": 1714556550000,
+      "properties": {
+        "title": "无标题文档",
+        "urlname": "gesuxmy2mywh1ox7",
+        "date": "2024-05-01 17:41:29",
+        "updated": "2024-05-01 17:42:30",
+        "description": "前言中华人民共和国国家标准消防给水及消火栓系统技术规范Technical code for fire protection water supply and hydrant systemsGB 50974-2014主编部门：中华人民共和国公安部批准部门：中华人民共和国住房和城乡建设部施行日期：..."
+      },
+      "catalog": [],
+      "realName": "无标题文档_gesuxmy2mywh1ox7",
+      "relativePath": "/无标题文档_gesuxmy2mywh1ox7.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 167646876,
+      "doc_id": "ezk4u6e9xxn6cmnc",
+      "updated": 1714310597000,
+      "properties": {
+        "title": "手把手实现 | 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】",
+        "urlname": "ezk4u6e9xxn6cmnc",
+        "date": "2024-04-28 21:23:16",
+        "updated": "2024-04-28 21:23:17"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "ezk4u6e9xxn6cmnc"
+        }
+      ],
+      "realName": "手把手实现 ! 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】_ezk4u6e9xxn6cmnc",
+      "relativePath": "/计算机视觉yolo/手把手实现 ! 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】_ezk4u6e9xxn6cmnc.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 167619304,
+      "doc_id": "avpzuhffgt3y0znb",
+      "updated": 1714296111000,
+      "properties": {
+        "title": "vs code默认终端 conda activate无法激活",
+        "urlname": "avpzuhffgt3y0znb",
+        "date": "2024-04-28 17:21:50",
+        "updated": "2024-04-28 17:21:51"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "avpzuhffgt3y0znb"
+        }
+      ],
+      "realName": "vs code默认终端 conda activate无法激活",
+      "relativePath": "/计算机视觉yolo/vs code默认终端 conda activate无法激活.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 167615492,
+      "doc_id": "fsz395tv5w97ot4o",
+      "updated": 1714294940000,
+      "properties": {
+        "title": "windows cmd命令行无法执行conda activate",
+        "urlname": "fsz395tv5w97ot4o",
+        "date": "2024-04-28 17:02:19",
+        "updated": "2024-04-28 17:02:20"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "fsz395tv5w97ot4o"
+        }
+      ],
+      "realName": "windows cmd命令行无法执行conda activate",
+      "relativePath": "/计算机视觉yolo/windows cmd命令行无法执行conda activate.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 166063082,
+      "doc_id": "teo0rsx22fk7bvmn",
+      "updated": 1714045460000,
+      "properties": {
+        "title": "书生· 浦语InternLM实战-3",
+        "urlname": "teo0rsx22fk7bvmn",
+        "date": "2024-04-17 19:42:29",
+        "updated": "2024-04-25 19:44:20",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713440658106-957c0ca0-089d-46a9-bcd4-880d38f3754b.png",
+        "description": "创建30%A100 *1开发机创建conda环境 进入开发机后，从官方环境复制运行 InternLM 的基础环境，命名为 InternLM2_Huixiangdou，在命令行模式下运行：studio-conda -o internlm-base -t InternLM2_Huixiangdou..."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "teo0rsx22fk7bvmn"
+        }
+      ],
+      "realName": "书生· 浦语InternLM实战-3",
+      "relativePath": "/书生谱语实战营笔记/书生· 浦语InternLM实战-3.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 166233309,
+      "doc_id": "mt4nvuhoz4r043uz",
+      "updated": 1714045473000,
+      "properties": {
+        "title": "书生· 浦语InternLM实战-4",
+        "urlname": "mt4nvuhoz4r043uz",
+        "date": "2024-04-18 20:36:54",
+        "updated": "2024-04-25 19:44:33",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713928923425-6d7ecbc5-d142-4ad4-a0be-efe27951df57.png",
+        "description": "XTuner 微调个人小助手认知1 开发机准备首先我们需要前往 InternStudio 中创建一个开发机进行使用。然后在进入界面后首先选择开发机。首先，打开 Intern Studio 界面，点击 创建开发机 配置开发机系统。之后我们填写 开发机名称 后，点击 选择镜像 使用 Cuda11...."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "mt4nvuhoz4r043uz"
+        }
+      ],
+      "realName": "书生· 浦语InternLM实战-4",
+      "relativePath": "/书生谱语实战营笔记/书生· 浦语InternLM实战-4.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 167153995,
+      "doc_id": "msgzt95qknbgpf8p",
+      "updated": 1714045131000,
+      "properties": {
+        "title": "书生 谱语实战7",
+        "urlname": "msgzt95qknbgpf8p",
+        "date": "2024-04-25 11:10:00",
+        "updated": "2024-04-25 19:38:51",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714014605082-45ff0f75-84a0-4fb4-82be-3fc6d2d9db10.png",
+        "description": "面向GPU的环境安装studio-conda -o internlm-base -t opencompass source activate opencompass git clone -b 0.2.4 https://github.com/open-compass/opencompass c..."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "msgzt95qknbgpf8p"
+        }
+      ],
+      "realName": "书生 谱语实战7",
+      "relativePath": "/书生谱语实战营笔记/书生 谱语实战7.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 167090632,
+      "doc_id": "pg3g2a7lmp9oep4u",
+      "updated": 1714044343000,
+      "properties": {
+        "title": "书生 谱语实战6",
+        "urlname": "pg3g2a7lmp9oep4u",
+        "date": "2024-04-24 23:31:11",
+        "updated": "2024-04-25 19:25:43",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713972690429-87b1ff6b-795c-440b-a11c-dcb1212feac3.png",
+        "description": "1. 概述1.1 Lagent 是什么Lagent 是一个轻量级开源智能体框架，旨在让用户可以高效地构建基于大语言模型的智能体。同时它也提供了一些典型工具以增强大语言模型的能力。Lagent 目前已经支持了包括 AutoGPT、ReAct 等在内的多个经典智能体范式，也支持了如下工具：Arxi..."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "pg3g2a7lmp9oep4u"
+        }
+      ],
+      "realName": "书生 谱语实战6",
+      "relativePath": "/书生谱语实战营笔记/书生 谱语实战6.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 167149787,
+      "doc_id": "utmstgh074kigf1f",
+      "updated": 1714017049000,
+      "properties": {
+        "title": "部署到openxlab",
+        "urlname": "utmstgh074kigf1f",
+        "date": "2024-04-25 10:47:53",
+        "updated": "2024-04-25 11:50:49",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1714014807653-5e9cfe48-7de8-44d5-88b8-3ce2e60b5ed3.png",
+        "description": "apt-get update apt-get install git apt-get install git-lfs git lfs install #配置 Git Username，用于作为 Git 提交的身份标识 git config --global user.name \"comefly..."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "utmstgh074kigf1f"
+        }
+      ],
+      "realName": "部署到openxlab",
+      "relativePath": "/书生谱语实战营笔记/部署到openxlab.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 166751600,
+      "doc_id": "zoxhzftxhd3utq72",
+      "updated": 1714045783000,
+      "properties": {
+        "title": "书生· 浦语InterLM实战5",
+        "urlname": "zoxhzftxhd3utq72",
+        "date": "2024-04-22 19:34:41",
+        "updated": "2024-04-25 19:49:43",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713785660054-53af77e9-9492-4eaa-8f93-a9785599a2b5.png",
+        "description": "1.InternStudio开发机创建conda环境由于环境依赖项存在torch，下载过程可能比较缓慢。InternStudio上提供了快速创建conda环境的方法。打开命令行终端，创建一个名为lmdeploy的环境：studio-conda -t lmdeploy -o pytorch-2...."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "zoxhzftxhd3utq72"
+        }
+      ],
+      "realName": "书生· 浦语InterLM实战5",
+      "relativePath": "/书生谱语实战营笔记/书生· 浦语InterLM实战5.md",
+      "needUpdate": 1,
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 166919212,
+      "doc_id": "whfrmc6umclw41qg",
+      "updated": 1713878790000,
+      "properties": {
+        "title": "无需Clone！VS Code直接操作远程GitHub仓库 - 知乎",
+        "urlname": "whfrmc6umclw41qg",
+        "date": "2024-04-23 21:26:29",
+        "updated": "2024-04-23 21:26:30"
+      },
+      "catalog": [],
+      "realName": "无需Clone！VS Code直接操作远程GitHub仓库 - 知乎",
+      "relativePath": "/无需Clone！VS Code直接操作远程GitHub仓库 - 知乎.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166485898,
+      "doc_id": "vxeu3wqppbm7es9p",
+      "updated": 1713619469000,
+      "properties": {
+        "title": "nas - Synology DiskStation",
+        "urlname": "vxeu3wqppbm7es9p",
+        "date": "2024-04-20 21:24:29",
+        "updated": "2024-04-20 21:24:29"
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "vxeu3wqppbm7es9p"
+        }
+      ],
+      "realName": "nas - Synology DiskStation",
+      "relativePath": "/实验室istore/nas/nas - Synology DiskStation.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 166906640,
+      "doc_id": "grm3yk3m6kucg0xo",
+      "updated": 1715080804000,
+      "properties": {
+        "title": "istoreOS + Tailscale",
+        "urlname": "grm3yk3m6kucg0xo",
+        "date": "2024-04-23 19:02:45",
+        "updated": "2024-05-07 19:20:04",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1713870842199-f781510e-f0e7-4be6-a639-3e6e96110772.png",
+        "description": "wget https://github.com/adyanth/openwrt-tailscale-enabler/releases/download/v1.60.0-e428948-autoupdate/openwrt-tailscale-enabler-v1.60.0-e428948-au..."
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "grm3yk3m6kucg0xo"
+        }
+      ],
+      "realName": "istoreOS + Tailscale",
+      "relativePath": "/实验室istore/nas/istoreOS + Tailscale.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 166552274,
+      "doc_id": "fppgd25odf179zdk",
+      "updated": 1713683552000,
+      "properties": {
+        "title": "1Panel 查看后台信息",
+        "urlname": "fppgd25odf179zdk",
+        "date": "2024-04-21 15:12:32",
+        "updated": "2024-04-21 15:12:32"
+      },
+      "catalog": [],
+      "realName": "1Panel 查看后台信息",
+      "relativePath": "/1Panel 查看后台信息.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166478696,
+      "doc_id": "gfrxgfhftckxvx04",
+      "updated": 1713614313000,
+      "properties": {
+        "title": "解决Github RAW ,文件，docker加速服务",
+        "urlname": "gfrxgfhftckxvx04",
+        "date": "2024-04-20 19:36:44",
+        "updated": "2024-04-20 19:58:33",
+        "description": "Docker 镜像加速 国内从 DockerHub 拉取镜像有时会遇到困难，此时可以配置镜像加速器。Docker 官方和国内很多云服务商都提供了国内加速器服务，例如：  科大镜像：https://docker.mirrors.ustc.edu.cn/ 网易：https://hub-mirror..."
+      },
+      "catalog": [],
+      "realName": "解决Github RAW ,文件，docker加速服务",
+      "relativePath": "/解决Github RAW ,文件，docker加速服务.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166476642,
+      "doc_id": "axq35vmof5ws1wur",
+      "updated": 1713610915000,
+      "properties": {
+        "title": "docker 一键安装脚本/猪猫脚本",
+        "urlname": "axq35vmof5ws1wur",
+        "date": "2024-04-20 19:01:55",
+        "updated": "2024-04-20 19:01:55"
+      },
+      "catalog": [],
+      "realName": "docker 一键安装脚本!猪猫脚本",
+      "relativePath": "/docker 一键安装脚本!猪猫脚本.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166476038,
+      "doc_id": "rkbu6xfip2urcrag",
+      "updated": 1713610295000,
+      "properties": {
+        "title": "OSS Planet | #JustGoOpen - Just Go Open, I've Got Your Back. - Free Hosting / VPS / Mirror for OpenSource Projects, etc. --- OSS星球 |#JustGoOpen - 只要打开，我支持你。- 开源项目的免费托管/ VPS /镜像等",
+        "urlname": "rkbu6xfip2urcrag",
+        "date": "2024-04-20 18:51:35",
+        "updated": "2024-04-20 18:51:35"
+      },
+      "catalog": [],
+      "realName": "OSS Planet ! #JustGoOpen - Just Go Open, I've Got Your Back. - Free Hosting ! VPS ! Mirror for OpenS",
+      "relativePath": "/OSS Planet ! #JustGoOpen - Just Go Open, I've Got Your Back. - Free Hosting ! VPS ! Mirror for OpenS.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166385224,
+      "doc_id": "khcxv6s0pqigkqfh",
+      "updated": 1713534894000,
+      "properties": {
+        "title": "手把手在K210上部署自己在线训练的YOLO模型_yolo物体检测部署到k210上-CSDN博客",
+        "urlname": "khcxv6s0pqigkqfh",
+        "date": "2024-04-19 21:54:53",
+        "updated": "2024-04-19 21:54:54"
+      },
+      "catalog": [],
+      "realName": "手把手在K210上部署自己在线训练的YOLO模型_yolo物体检测部署到k210上-CSDN博客",
+      "relativePath": "/手把手在K210上部署自己在线训练的YOLO模型_yolo物体检测部署到k210上-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166378408,
+      "doc_id": "yt11o01zaxvbl113",
+      "updated": 1713528325000,
+      "properties": {
+        "title": "使用K210 开发板，轻松实现人脸检测（附代码）_k210开发板-CSDN博客",
+        "urlname": "yt11o01zaxvbl113",
+        "date": "2024-04-19 20:05:24",
+        "updated": "2024-04-19 20:05:25"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "yt11o01zaxvbl113"
+        }
+      ],
+      "realName": "使用K210 开发板，轻松实现人脸检测（附代码）_k210开发板-CSDN博客",
+      "relativePath": "/计算机视觉yolo/使用K210 开发板，轻松实现人脸检测（附代码）_k210开发板-CSDN博客.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 166474741,
+      "doc_id": "qh63eo9ul1llglio",
+      "updated": 1713609160000,
+      "properties": {
+        "title": "PaddleOCR环境搭建、模型训练、推理、部署全流程（Ubuntu系统）_1_ubuntu 快速使用paddleocr-CSDN博客",
+        "urlname": "qh63eo9ul1llglio",
+        "date": "2024-04-20 18:32:40",
+        "updated": "2024-04-20 18:32:40"
+      },
+      "catalog": [],
+      "realName": "PaddleOCR环境搭建、模型训练、推理、部署全流程（Ubuntu系统）_1_ubuntu 快速使用paddleocr-CSDN博客",
+      "relativePath": "/PaddleOCR环境搭建、模型训练、推理、部署全流程（Ubuntu系统）_1_ubuntu 快速使用paddleocr-CSDN博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 166264952,
+      "doc_id": "iyl2xkddo7o9xetn",
+      "updated": 1713464034000,
+      "properties": {
+        "title": "基于 Ubuntu 18.04 的 PaddleOCR 环境搭建及使用 | 码农家园",
+        "urlname": "iyl2xkddo7o9xetn",
+        "date": "2024-04-19 02:13:54",
+        "updated": "2024-04-19 02:13:54"
+      },
+      "catalog": [],
+      "realName": "基于 Ubuntu 18.04 的 PaddleOCR 环境搭建及使用 ! 码农家园",
+      "relativePath": "/基于 Ubuntu 18.04 的 PaddleOCR 环境搭建及使用 ! 码农家园.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 165932248,
+      "doc_id": "vuf7is7crps1u6qm",
+      "updated": 1713284095000,
+      "properties": {
+        "title": "群晖套件web staton的完全使用指南，静态网站（导航页）动态网站（typecho博客）搭建教程 - 折腾笔记",
+        "urlname": "vuf7is7crps1u6qm",
+        "date": "2024-04-17 00:14:55",
+        "updated": "2024-04-17 00:14:55"
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "vuf7is7crps1u6qm"
+        }
+      ],
+      "realName": "群晖套件web staton的完全使用指南，静态网站（导航页）动态网站（typecho博客）搭建教程 - 折腾笔记",
+      "relativePath": "/实验室istore/nas/群晖套件web staton的完全使用指南，静态网站（导航页）动态网站（typecho博客）搭建教程 - 折腾笔记.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 165931537,
+      "doc_id": "xkw2qpnbcoggwbyr",
+      "updated": 1713283292000,
+      "properties": {
+        "title": "OpenWrt安装Tailscale设置内网穿透+科学出国+外网互访局域网设备 - GXNAS博客",
+        "urlname": "xkw2qpnbcoggwbyr",
+        "date": "2024-04-17 00:01:32",
+        "updated": "2024-04-17 00:01:32"
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "xkw2qpnbcoggwbyr"
+        }
+      ],
+      "realName": "OpenWrt安装Tailscale设置内网穿透+科学出国+外网互访局域网设备 - GXNAS博客",
+      "relativePath": "/实验室istore/nas/OpenWrt安装Tailscale设置内网穿透+科学出国+外网互访局域网设备 - GXNAS博客.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 166061231,
+      "doc_id": "hv0bfwlosgxdv1to",
+      "updated": 1713352791000,
+      "properties": {
+        "title": "群晖 安装 iStoreOS 作为 旁路由，华硕路由器,OpenWRT - 知乎",
+        "urlname": "hv0bfwlosgxdv1to",
+        "date": "2024-04-17 19:19:51",
+        "updated": "2024-04-17 19:19:51"
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "hv0bfwlosgxdv1to"
+        }
+      ],
+      "realName": "群晖 安装 iStoreOS 作为 旁路由，华硕路由器,OpenWRT - 知乎",
+      "relativePath": "/实验室istore/nas/群晖 安装 iStoreOS 作为 旁路由，华硕路由器,OpenWRT - 知乎.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 165931178,
+      "doc_id": "wewp40na66ahcdw4",
+      "updated": 1715081697000,
+      "properties": {
+        "title": "istoreos安装Tailscale设置内网穿透",
+        "urlname": "wewp40na66ahcdw4",
+        "date": "2024-04-16 23:54:58",
+        "updated": "2024-05-07 19:34:57"
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "wewp40na66ahcdw4"
+        }
+      ],
+      "realName": "istoreos安装Tailscale设置内网穿透",
+      "relativePath": "/实验室istore/nas/istoreos安装Tailscale设置内网穿透.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 164361666,
+      "doc_id": "zn81d6q1tc8tomwx",
+      "updated": 1713035556000,
+      "properties": {
+        "title": "yolov9 - DSW(第二版)",
+        "urlname": "zn81d6q1tc8tomwx",
+        "date": "2024-04-05 02:24:59",
+        "updated": "2024-04-14 03:12:36",
+        "description": "主要步骤如下，电池数据集在https://universe.roboflow.com/elevator/elevator-nmvwp/dataset/4/download， 已经上传到GitHub小号上了，可直接git clone，几个关键的步骤点如下，记录一下，下次用比较快 具体的准备步骤太..."
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "zn81d6q1tc8tomwx"
+        }
+      ],
+      "realName": "yolov9 - DSW(第二版)",
+      "relativePath": "/计算机视觉yolo/yolov9 - DSW(第二版).md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 165368314,
+      "doc_id": "gczflzv6dhahsr36",
+      "updated": 1712944212000,
+      "properties": {
+        "title": "基于深度学习的甲骨文字检测和识别",
+        "urlname": "gczflzv6dhahsr36",
+        "date": "2024-04-13 00:06:14",
+        "updated": "2024-04-13 01:50:12",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712938060129-c2ac5f4e-64dc-44ab-8860-553347372fc0.png",
+        "description": "https://www.doc88.com/p-79959517362181.html?r=1json转txt过程中遇到的问题，哈哈笑死比葫芦画瓢，但是要修改变量名称，不能呢个照抄https://www.cnblogs.com/yxyun/p/14251187.html"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "gczflzv6dhahsr36"
+        }
+      ],
+      "realName": "基于深度学习的甲骨文字检测和识别",
+      "relativePath": "/计算机视觉yolo/基于深度学习的甲骨文字检测和识别.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 165285324,
+      "doc_id": "wqz3dqe4i8501xg2",
+      "updated": 1712916066000,
+      "properties": {
+        "title": "【保姆级重磅】2024年mathorcup数模竞赛B题详细求解思路和第一问完整求解过程与代码_哔哩哔哩_bilibili",
+        "urlname": "wqz3dqe4i8501xg2",
+        "date": "2024-04-12 15:53:48",
+        "updated": "2024-04-12 18:01:06",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712908051202-988b72e3-c551-4876-9b30-58423e6e2865.png",
+        "description": "1.1 图像降噪 中值滤波 双边滤波 可以看出用的是cv2   1.2增强图像对比度 自适应直方图均衡化（CLAHE）  1.3预处理图像展示 用1.1和1.2方法处理得到降噪与增强对比度之后的图像作为数据集进行深度学习   https://www.zhihu.com/question/652..."
+      },
+      "catalog": [],
+      "realName": "【保姆级重磅】2024年mathorcup数模竞赛B题详细求解思路和第一问完整求解过程与代码_哔哩哔哩_bilibili",
+      "relativePath": "/【保姆级重磅】2024年mathorcup数模竞赛B题详细求解思路和第一问完整求解过程与代码_哔哩哔哩_bilibili.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 165179659,
+      "doc_id": "nvi9pgzrhs6l0mww",
+      "updated": 1712846790000,
+      "properties": {
+        "title": "K210电梯检测",
+        "urlname": "nvi9pgzrhs6l0mww",
+        "date": "2024-04-11 22:25:13",
+        "updated": "2024-04-11 22:46:30",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712844283737-4f1c4463-1363-47dc-9144-4363cfb98c88.png",
+        "description": "板子：pyAI-k210（```Maix Dock```）下载Maixpy IDE         链接：见官网文档https://wiki.sipeed.com/soft/maixpy/zh/index.html下载烧录软件kflash_gui       链接：https://github..."
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "nvi9pgzrhs6l0mww"
+        }
+      ],
+      "realName": "K210电梯检测",
+      "relativePath": "/计算机视觉yolo/K210电梯检测.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 165035215,
+      "doc_id": "kw9yqdxygg5ce5kx",
+      "updated": 1712753294000,
+      "properties": {
+        "title": "Ubuntu部署LangChain-Chatchat - lukeewin的博客",
+        "urlname": "kw9yqdxygg5ce5kx",
+        "date": "2024-04-10 20:48:13",
+        "updated": "2024-04-10 20:48:14"
+      },
+      "catalog": [],
+      "realName": "Ubuntu部署LangChain-Chatchat - lukeewin的博客",
+      "relativePath": "/Ubuntu部署LangChain-Chatchat - lukeewin的博客.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 164360996,
+      "doc_id": "oo5yzz5e271degmu",
+      "updated": 1712746946000,
+      "properties": {
+        "title": "yolov9 - DSW(第一版)",
+        "urlname": "oo5yzz5e271degmu",
+        "date": "2024-04-05 01:27:29",
+        "updated": "2024-04-10 19:02:26",
+        "description": "conda create -n yolov9 python=3.8conda activate yolov9git clone https://github.com/hututusb/yolov9.git#解压zip  cd yolov9 apt update apt install unzi..."
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "oo5yzz5e271degmu"
+        }
+      ],
+      "realName": "yolov9 - DSW(第一版)",
+      "relativePath": "/计算机视觉yolo/yolov9 - DSW(第一版).md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 164624134,
+      "doc_id": "rxmkbx3gqwbecep8",
+      "updated": 1712537075000,
+      "properties": {
+        "title": "keli uvsion5",
+        "urlname": "rxmkbx3gqwbecep8",
+        "date": "2024-04-07 22:42:41",
+        "updated": "2024-04-08 08:44:35",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/jpeg/40770342/1712537064259-82674dd5-ec49-4599-a5c9-0c5e4bdef8e7.jpeg",
+        "description": "打开文件夹https://www.cnblogs.com/winafa/p/13689280.html二维数组的元素个数canny.c中卷积核计算那部分28行找kernel【i】【j】从kenerl-size 3x3列表里找最优的卷积核大小消防给水及消防栓系技术规范https://m.ycpa..."
+      },
+      "catalog": [],
+      "realName": "keli uvsion5",
+      "relativePath": "/keli uvsion5.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 164289038,
+      "doc_id": "yn9sn6foiug1uywy",
+      "updated": 1712425837000,
+      "properties": {
+        "title": "openvpn一键脚本",
+        "urlname": "yn9sn6foiug1uywy",
+        "date": "2024-04-03 20:25:26",
+        "updated": "2024-04-07 01:50:37",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712147539626-0c6a08ae-dc73-4fce-91d5-8474a8bd7f46.png",
+        "description": "开放防火墙#centos yum install ufw  #ubuntu apt-get install ufw  ufw enable  # 选择y ufw allow 22 ufw allow 53 ufw allow 67 ufw allow 68 ufw allow 69 ufw a..."
+      },
+      "catalog": [],
+      "realName": "openvpn一键脚本",
+      "relativePath": "/openvpn一键脚本.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 164496091,
+      "doc_id": "xlcf7m1q5ake6gtd",
+      "updated": 1714571652000,
+      "properties": {
+        "title": "tailscale",
+        "urlname": "xlcf7m1q5ake6gtd",
+        "date": "2024-04-07 00:18:04",
+        "updated": "2024-05-01 21:54:12"
+      },
+      "catalog": [
+        {
+          "title": "实验室istore/nas",
+          "doc_id": "xlcf7m1q5ake6gtd"
+        }
+      ],
+      "realName": "tailscale",
+      "relativePath": "/实验室istore/nas/tailscale.md",
+      "docPath": "docs/docs/实验室istore/nas"
+    },
+    {
+      "id": 164471283,
+      "doc_id": "blaser3srbg0hb6n",
+      "updated": 1712415606000,
+      "properties": {
+        "title": "无标题文档",
+        "urlname": "blaser3srbg0hb6n",
+        "date": "2024-04-06 19:24:25",
+        "updated": "2024-04-06 23:00:06",
+        "cover": "https://www.yuque.com/api/services/graph/generate_redirect/latex?F%20%3D%20%5Cdot%7Bm%7D%20v_2%20%3D%20(%5Crho%20A%20v_2)%20v_2%20%3D%20%5Crho%20A%20v_2%5E2%20%0A",
+        "description": "这篇文章是关于伯努利方程在电介质流体中的应用的研究。文章首先介绍了伯努利方程在力学中的广泛应用，并指出由于其形式中不含电学量，因此在电学中的应用较少。为了拓宽伯努利方程的应用范围，作者提出了在电介质流体中推广伯努利方程的方法。文章首先推导出电势能密度的概念。通过考虑一个电偶极子在非均匀电场中的..."
+      },
+      "catalog": [],
+      "realName": "无标题文档_blaser3srbg0hb6n",
+      "relativePath": "/无标题文档_blaser3srbg0hb6n.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163747075,
+      "doc_id": "kbh2kll29255d5nt",
+      "updated": 1712162215000,
+      "properties": {
+        "title": "DLAI - Learning Platform",
+        "urlname": "kbh2kll29255d5nt",
+        "date": "2024-03-29 22:38:32",
+        "updated": "2024-04-04 00:36:55",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1711723675317-3e303801-5eff-4a8f-9cff-9ad45ba2bbd3.png",
+        "description": "吴恩达的llm课程，官网：https://learn.deeplearning.ai/DeepLearning.AI Short CoursesCourse AvailableJavaScript RAG Web Apps with LlamaIndexNewChatGPT Prompt En..."
+      },
+      "catalog": [],
+      "realName": "DLAI - Learning Platform",
+      "relativePath": "/DLAI - Learning Platform.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 164324549,
+      "doc_id": "hm524teapitsents",
+      "updated": 1712212990000,
+      "properties": {
+        "title": "LLM - DSW-lora",
+        "urlname": "hm524teapitsents",
+        "date": "2024-04-04 14:43:10",
+        "updated": "2024-04-04 14:43:10"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "hm524teapitsents"
+        }
+      ],
+      "realName": "LLM - DSW-lora",
+      "relativePath": "/计算机视觉yolo/LLM - DSW-lora.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 164299387,
+      "doc_id": "ozimrcgsqy5tw1ap",
+      "updated": 1712158046000,
+      "properties": {
+        "title": "深度学习+基于yolov2的头盔识别+k210端侧部署+课程设计/比赛项目_kmodel资源-CSDN文库",
+        "urlname": "ozimrcgsqy5tw1ap",
+        "date": "2024-04-03 23:27:26",
+        "updated": "2024-04-03 23:27:26"
+      },
+      "catalog": [
+        {
+          "title": "计算机视觉yolo",
+          "doc_id": "ozimrcgsqy5tw1ap"
+        }
+      ],
+      "realName": "深度学习+基于yolov2的头盔识别+k210端侧部署+课程设计!比赛项目_kmodel资源-CSDN文库",
+      "relativePath": "/计算机视觉yolo/深度学习+基于yolov2的头盔识别+k210端侧部署+课程设计!比赛项目_kmodel资源-CSDN文库.md",
+      "docPath": "docs/docs/计算机视觉yolo"
+    },
+    {
+      "id": 164033006,
+      "doc_id": "lf4txmrwbbpxo2cr",
+      "updated": 1712069993000,
+      "properties": {
+        "title": "chatglm3-6b部署到微调",
+        "urlname": "lf4txmrwbbpxo2cr",
+        "date": "2024-04-01 21:58:09",
+        "updated": "2024-04-02 22:59:53",
+        "description": "【部署微调ChatGlm3-6B大模型【小白0到1】】 https://www.bilibili.com/video/BV1Cx4y1m7Gd/?p=5&share_source=copy_web&vd_source=759145a85d9dc689722e9d34a3a9612e[PAI]h..."
+      },
+      "catalog": [],
+      "realName": "chatglm3-6b部署到微调",
+      "relativePath": "/chatglm3-6b部署到微调.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 164129482,
+      "doc_id": "xxfxlo8s26dk814e",
+      "updated": 1712054566000,
+      "properties": {
+        "title": "书生· 浦语InternLM实战-2",
+        "urlname": "xxfxlo8s26dk814e",
+        "date": "2024-04-02 16:17:26",
+        "updated": "2024-04-02 18:42:46",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712047279011-eff54728-4df4-4d1f-a955-41995f1be964.png",
+        "description": "1.环境配置在/root目录下创建conda虚拟环境cd / cd root #进入root目录studio-conda -o internlm-base -t demo # 与 studio-conda 等效的配置方案 # conda create -n demo python==3.10 ..."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "xxfxlo8s26dk814e"
+        }
+      ],
+      "realName": "书生· 浦语InternLM实战-2",
+      "relativePath": "/书生谱语实战营笔记/书生· 浦语InternLM实战-2.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 164123170,
+      "doc_id": "qxy6zkn6b10u7dva",
+      "updated": 1712044167000,
+      "properties": {
+        "title": "书生· 浦语InternLM实战-1",
+        "urlname": "qxy6zkn6b10u7dva",
+        "date": "2024-04-02 15:45:44",
+        "updated": "2024-04-02 15:49:27",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1712043886769-8ac82371-0221-4210-b93f-24f5c2992126.png",
+        "description": "课堂重点大模型的发展历程由专用模型（针对特定任务，一个模型解决一个问题）-> 通用大模型（一个模型应对多个任务、多种模态）通用大模型是通往通用人工智能的关键途径书生浦语大模型的开源历程2023年6月 InternLm 千亿语言大模型发布，到7月升级开源8月书生万卷多模态模型发布，升级对话模型，..."
+      },
+      "catalog": [
+        {
+          "title": "书生谱语实战营笔记",
+          "doc_id": "qxy6zkn6b10u7dva"
+        }
+      ],
+      "realName": "书生· 浦语InternLM实战-1",
+      "relativePath": "/书生谱语实战营笔记/书生· 浦语InternLM实战-1.md",
+      "docPath": "docs/docs/书生谱语实战营笔记"
+    },
+    {
+      "id": 163877305,
+      "doc_id": "dh6s46sm87b0sfrs",
+      "updated": 1711883479000,
+      "properties": {
+        "title": "从0开始，如何设计一个AI大模型？如何快速落地私有行业大模型？||附《AI大模型市场研究报告》_哔哩哔哩_bilibili",
+        "urlname": "dh6s46sm87b0sfrs",
+        "date": "2024-03-31 19:11:19",
+        "updated": "2024-03-31 19:11:19"
+      },
+      "catalog": [],
+      "realName": "从0开始，如何设计一个AI大模型？如何快速落地私有行业大模型？!附《AI大模型市场研究报告》_哔哩哔哩_bilibili",
+      "relativePath": "/从0开始，如何设计一个AI大模型？如何快速落地私有行业大模型？!附《AI大模型市场研究报告》_哔哩哔哩_bilibili.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163886278,
+      "doc_id": "otd26rbuouay1p4l",
+      "updated": 1711895687000,
+      "properties": {
+        "title": "ChatGLM3-6b部署、量化以及遇到的问题解决方案",
+        "urlname": "otd26rbuouay1p4l",
+        "date": "2024-03-31 20:59:16",
+        "updated": "2024-03-31 22:34:47",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1711889906432-9c1bb696-eed1-4dae-8e82-5f1bc9b405d7.png",
+        "description": "ChatGLM3-6b部署、量化以及遇到的问题解决方案一、准备工作1. 模型下载2. 初始化项目仓库二、运行demo三、模型量化这里主要介绍我在安装ChatGLM3-6b时的步骤以及遇到的问题如何解决，以作记录，项目地址：https://github.com/THUDM/ChatGLM3一、准..."
+      },
+      "catalog": [],
+      "realName": "ChatGLM3-6b部署、量化以及遇到的问题解决方案",
+      "relativePath": "/ChatGLM3-6b部署、量化以及遇到的问题解决方案.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163870893,
+      "doc_id": "wzqudyof3vrnc44r",
+      "updated": 1711878023000,
+      "properties": {
+        "title": "RWKV-Runner",
+        "urlname": "wzqudyof3vrnc44r",
+        "date": "2024-03-31 17:38:27",
+        "updated": "2024-03-31 17:40:23",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/jpeg/40770342/1711877835353-024fa3b4-fa6c-49d5-979a-c6939eb94c69.jpeg",
+        "description": "RWKV Runner本项目旨在消除大语言模型的使用门槛，全自动为你处理一切，你只需要一个仅仅几MB的可执行程序。此外本项目提供了与OpenAI API兼容的接口，这意味着一切ChatGPT客户端都是RWKV客户端。English | 简体中文 | 日本語安装视频演示 | 疑难解答 | 预览 ..."
+      },
+      "catalog": [],
+      "realName": "RWKV-Runner",
+      "relativePath": "/RWKV-Runner.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163749754,
+      "doc_id": "axsi8hymvuuhg21e",
+      "updated": 1711726554000,
+      "properties": {
+        "title": "近期LLM任务",
+        "urlname": "axsi8hymvuuhg21e",
+        "date": "2024-03-29 23:32:06",
+        "updated": "2024-03-29 23:35:54",
+        "description": "LLM视频：https://www.bilibili.com/video/BV1Nh4y1c77H/?spm_id_from=333.788.recommend_more_video.14&vd_source=cbdbd8d9f59c48c14f18e0c14f857854LLM官网教程：ht..."
+      },
+      "catalog": [],
+      "realName": "近期LLM任务",
+      "relativePath": "/近期LLM任务.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163754333,
+      "doc_id": "vcop4ztakxrhuanx",
+      "updated": 1711736463000,
+      "properties": {
+        "title": "模型特色",
+        "urlname": "vcop4ztakxrhuanx",
+        "date": "2024-03-30 02:09:11",
+        "updated": "2024-03-30 02:21:03",
+        "description": "更加注重ai与客户之间的联系残障人士结合ai  /附加特色ai工作流论文与实际论证今年下半年,360发布了以360智脑大模型驱动的360智能营销云,已经率先采用了agent模式,并融合了企业知识库.360智能营销云旗下,ai数人,ai数字员工,360智绘等产品也陆续登场.创新打造360智能营销..."
+      },
+      "catalog": [],
+      "realName": "模型特色",
+      "relativePath": "/模型特色.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163734642,
+      "doc_id": "xfrvn7pwl4fgaopt",
+      "updated": 1711711173000,
+      "properties": {
+        "title": "智能AI知识库，增强AI知识的开源项目 - tokengo - 博客园",
+        "urlname": "xfrvn7pwl4fgaopt",
+        "date": "2024-03-29 19:19:32",
+        "updated": "2024-03-29 19:19:33"
+      },
+      "catalog": [],
+      "realName": "智能AI知识库，增强AI知识的开源项目 - tokengo - 博客园",
+      "relativePath": "/智能AI知识库，增强AI知识的开源项目 - tokengo - 博客园.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163734677,
+      "doc_id": "yivlmm7wpubgyox4",
+      "updated": 1711711207000,
+      "properties": {
+        "title": "Hello from FastWiki文档 | FastWiki文档",
+        "urlname": "yivlmm7wpubgyox4",
+        "date": "2024-03-29 19:20:07",
+        "updated": "2024-03-29 19:20:07"
+      },
+      "catalog": [],
+      "realName": "Hello from FastWiki文档 ! FastWiki文档",
+      "relativePath": "/Hello from FastWiki文档 ! FastWiki文档.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163732166,
+      "doc_id": "pn3srava5wrik4n3",
+      "updated": 1711710325000,
+      "properties": {
+        "title": "Gpt3.5",
+        "urlname": "pn3srava5wrik4n3",
+        "date": "2024-03-29 18:45:29",
+        "updated": "2024-03-29 19:05:25",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1711710315539-0ec6b63b-03fc-451d-bfa0-617530a8a160.png",
+        "description": "openai 3.5 api keysk-oRiEv1fp9TcN7m68B9A31872155b42CeB2Dc0f687697DfBc操作地址：https://flowus.cn/aicore/share/a10a50b6-ba5e-4884-98b3-02026f9307b3操作地址：h..."
+      },
+      "catalog": [],
+      "realName": "Gpt3.5",
+      "relativePath": "/Gpt3.5.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163672354,
+      "doc_id": "vbvkkgoskoap7t2n",
+      "updated": 1711682827000,
+      "properties": {
+        "title": "Langchain-Chatchat Wiki",
+        "urlname": "vbvkkgoskoap7t2n",
+        "date": "2024-03-29 11:26:17",
+        "updated": "2024-03-29 11:27:07",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40770342/1711682014830-921e7d33-3c76-43d9-80d3-0650d3f5c530.png",
+        "description": "来自: Home · chatchat-space/Langchain-Chatchat Wiki欢迎来到 Langchain‐Chatchat 的 Wiki , 在这里开启 Langchain 与大模型的邂逅!项目简介📃 LangChain-Chatchat (原 Langchain-Ch..."
+      },
+      "catalog": [],
+      "realName": "Langchain-Chatchat Wiki",
+      "relativePath": "/Langchain-Chatchat Wiki.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163734606,
+      "doc_id": "knk96qn8rloof045",
+      "updated": 1711711137000,
+      "properties": {
+        "title": "模型文件 | Open WebUI",
+        "urlname": "knk96qn8rloof045",
+        "date": "2024-03-29 19:18:57",
+        "updated": "2024-03-29 19:18:57"
+      },
+      "catalog": [],
+      "realName": "模型文件 ! Open WebUI",
+      "relativePath": "/模型文件 ! Open WebUI.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163616951,
+      "doc_id": "grhxdci8nycrrqpr",
+      "updated": 1711625072000,
+      "properties": {
+        "title": "接入微软、ChatGLM、本地模型等 | FastWiki文档",
+        "urlname": "grhxdci8nycrrqpr",
+        "date": "2024-03-28 19:24:31",
+        "updated": "2024-03-28 19:24:32"
+      },
+      "catalog": [],
+      "realName": "接入微软、ChatGLM、本地模型等 ! FastWiki文档",
+      "relativePath": "/接入微软、ChatGLM、本地模型等 ! FastWiki文档.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 163575626,
+      "doc_id": "clt42cuk5hhqa62z",
+      "updated": 1711610503000,
+      "properties": {
+        "title": "服务器搭建frp实现内网穿透🔥",
+        "urlname": "clt42cuk5hhqa62z",
+        "date": "2024-03-28 15:11:04",
+        "updated": "2024-03-28 15:21:43",
+        "description": "我真服了，哭了，记一下辛酸史frp内网穿透  1panel面板直接安装的话，frpc客户端连不上，  使用一键命令安装  链接： https://github.com/clangcn/onekey-install-shell/tree/master/frps  wget --no-check-..."
+      },
+      "catalog": [],
+      "realName": "服务器搭建frp实现内网穿透🔥",
+      "relativePath": "/服务器搭建frp实现内网穿透🔥.md",
+      "docPath": "docs/docs"
+    },
+    {
+      "id": 149665477,
+      "doc_id": "lbtm27227pgb044b",
+      "updated": 1702112014000,
+      "properties": {
+        "title": "💡 1 分钟玩转语雀文档",
+        "urlname": "lbtm27227pgb044b",
+        "date": "2023-12-09 16:53:33",
+        "updated": "2023-12-09 16:53:34",
+        "cover": "https://cdn.nlark.com/yuque/0/2022/png/268442/1654053059031-57d2d572-9c25-4134-adab-0cf30083cb81.png",
+        "description": "Hi，欢迎来到语雀～语雀文档是一个给个人和团队提供的写好文档的工具，我们希望每个人都可以快速、舒适的记录自己的所思所想，为此，语雀的文档编辑器提供了强大的能力。📝 文档支持多人协同语雀文档支持多人同时编辑一篇文档。丰富的文本样式支持 粗体、斜体、下划线、删除线、上标、下标、代码、高亮颜色 等..."
+      },
+      "catalog": [],
+      "realName": "💡 1 分钟玩转语雀文档",
+      "relativePath": "/💡 1 分钟玩转语雀文档.md",
+      "docPath": "docs/docs"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "yuque-vitepress",
+      "uuid": "4QfJv3fx_umAw8Tb",
+      "url": "qzqdhbw0qu4tskaf",
+      "prev_uuid": "",
+      "sibling_uuid": "fZT5Wx7vQJIhLvFV",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 175350002,
+      "level": 0,
+      "id": 175350002,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "开发跨桌面应用",
+      "uuid": "fZT5Wx7vQJIhLvFV",
+      "url": "lqgbwcb57eg2orfx",
+      "prev_uuid": "4QfJv3fx_umAw8Tb",
+      "sibling_uuid": "3JveAVSYTHdXs-wA",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 175258674,
+      "level": 0,
+      "id": 175258674,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "免费且可以无障碍下载的SVG素材网站大集合！个个都是精品！ - 软件素材分享区 Discuz! Board -",
+      "uuid": "3JveAVSYTHdXs-wA",
+      "url": "bm93nlq88b8dnde0",
+      "prev_uuid": "fZT5Wx7vQJIhLvFV",
+      "sibling_uuid": "7tKBiMN6_d_-ZISn",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 175203122,
+      "level": 0,
+      "id": 175203122,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "SVGator: 免费的在线SVG动画制作工具 – 网络探索者",
+      "uuid": "7tKBiMN6_d_-ZISn",
+      "url": "kowcashgh9hq2v0c",
+      "prev_uuid": "3JveAVSYTHdXs-wA",
+      "sibling_uuid": "IjyvQ2wznG6OWn1B",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 175203049,
+      "level": 0,
+      "id": 175203049,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "HPUhushicheng/vitepress-pro: 基于 VitePress 构建的个人知识库/博客",
+      "uuid": "IjyvQ2wznG6OWn1B",
+      "url": "rfz350vg41wkucbn",
+      "prev_uuid": "7tKBiMN6_d_-ZISn",
+      "sibling_uuid": "1OI92ij40ydhkid5",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 175202030,
+      "level": 0,
+      "id": 175202030,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "vue exe",
+      "uuid": "1OI92ij40ydhkid5",
+      "url": "odi3w9s2g2s5qnzh",
+      "prev_uuid": "IjyvQ2wznG6OWn1B",
+      "sibling_uuid": "h0agGQIZzO1qR_32",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 175076393,
+      "level": 0,
+      "id": 175076393,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "gmeek博客搭建教程",
+      "uuid": "h0agGQIZzO1qR_32",
+      "url": "fhz41bhx6s637vwb",
+      "prev_uuid": "1OI92ij40ydhkid5",
+      "sibling_uuid": "xA0ZiuY5ELjmRJFF",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174826977,
+      "level": 0,
+      "id": 174826977,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "王荣胜博客园",
+      "uuid": "xA0ZiuY5ELjmRJFF",
+      "url": "cd5ez6ip0ewkky6d",
+      "prev_uuid": "h0agGQIZzO1qR_32",
+      "sibling_uuid": "gMGD4nk-yh7ErCav",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174825808,
+      "level": 0,
+      "id": 174825808,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。",
+      "uuid": "gMGD4nk-yh7ErCav",
+      "url": "gg6e93dwxqtz7fnh",
+      "prev_uuid": "xA0ZiuY5ELjmRJFF",
+      "sibling_uuid": "Ga8__Q3_2tfZ7IWV",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174825796,
+      "level": 0,
+      "id": 174825796,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "闲鱼",
+      "uuid": "Ga8__Q3_2tfZ7IWV",
+      "url": "imaf663ophrchfxg",
+      "prev_uuid": "gMGD4nk-yh7ErCav",
+      "sibling_uuid": "wFD_GYPo9us28y5-",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174783906,
+      "level": 0,
+      "id": 174783906,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "工热",
+      "uuid": "wFD_GYPo9us28y5-",
+      "url": "xnn7keama7bcyv8w",
+      "prev_uuid": "Ga8__Q3_2tfZ7IWV",
+      "sibling_uuid": "CwVHAfUxjxXv-VGE",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174622891,
+      "level": 0,
+      "id": 174622891,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "用一行代码-重装系统cmdpe.com - 很多无尾熊 - 博客园",
+      "uuid": "CwVHAfUxjxXv-VGE",
+      "url": "ht05grxkpdztzvk8",
+      "prev_uuid": "wFD_GYPo9us28y5-",
+      "sibling_uuid": "I8gOdBKBk-y73vz6",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174575207,
+      "level": 0,
+      "id": 174575207,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "用一行代码教你重装Windows系统_重装系统代码-CSDN博客",
+      "uuid": "I8gOdBKBk-y73vz6",
+      "url": "fi803gvfrhw5ka8d",
+      "prev_uuid": "CwVHAfUxjxXv-VGE",
+      "sibling_uuid": "XWhJRSSHTnS3thPD",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174575195,
+      "level": 0,
+      "id": 174575195,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "AtlasOS-中文优化版、进程少、延迟低、极限性能",
+      "uuid": "XWhJRSSHTnS3thPD",
+      "url": "vkypfpbft8gxuxfs",
+      "prev_uuid": "I8gOdBKBk-y73vz6",
+      "sibling_uuid": "rl_c1BZEBUW1G6Gm",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174575178,
+      "level": 0,
+      "id": 174575178,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "概率论",
+      "uuid": "rl_c1BZEBUW1G6Gm",
+      "url": "sevu65039xhhbwu0",
+      "prev_uuid": "XWhJRSSHTnS3thPD",
+      "sibling_uuid": "_UzOfcTzzHXfpcCr",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174553211,
+      "level": 0,
+      "id": 174553211,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "多线程",
+      "uuid": "_UzOfcTzzHXfpcCr",
+      "url": "vwifvcnrrse6py5r",
+      "prev_uuid": "rl_c1BZEBUW1G6Gm",
+      "sibling_uuid": "3JlfoI3b--ZroCrB",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174525800,
+      "level": 0,
+      "id": 174525800,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "keyong",
+      "uuid": "3JlfoI3b--ZroCrB",
+      "url": "yb8wdggg64yo6um6",
+      "prev_uuid": "_UzOfcTzzHXfpcCr",
+      "sibling_uuid": "o9JSG2odndbD-FFw",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174425205,
+      "level": 0,
+      "id": 174425205,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "icar.cpp",
+      "uuid": "o9JSG2odndbD-FFw",
+      "url": "iosbpywo2wx298ai",
+      "prev_uuid": "3JlfoI3b--ZroCrB",
+      "sibling_uuid": "ycFwEdACCk-WUGGn",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174400221,
+      "level": 0,
+      "id": 174400221,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Leo-smart/Intelligentcar2022-FZ3B: 全国大学生智能汽车竞赛-完全模型组-开源共享软件资源（Edgeboard-FZ3B）",
+      "uuid": "ycFwEdACCk-WUGGn",
+      "url": "toxungfmgna9pmer",
+      "prev_uuid": "o9JSG2odndbD-FFw",
+      "sibling_uuid": "SsRHk4FtoPH5DpYp",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174198235,
+      "level": 0,
+      "id": 174198235,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "landian-yyds: 第十七届全国大学生智能汽车竞赛 - 完全模型组 - 湖北工业大学 - 蓝电YYDS Car队 - Gitee.com",
+      "uuid": "SsRHk4FtoPH5DpYp",
+      "url": "vlpzkxqzxrvafbde",
+      "prev_uuid": "ycFwEdACCk-WUGGn",
+      "sibling_uuid": "68E-mdIYNkSHPtLa",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174196833,
+      "level": 0,
+      "id": 174196833,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第十九届全国大学生智能汽车竞赛-赛曙科技开源学习资料: 第十九届全国大学生智能汽车竞赛，完全模型组，北京赛曙科技有限公司开源学习资料仓库",
+      "uuid": "68E-mdIYNkSHPtLa",
+      "url": "eb962n4581yf8chf",
+      "prev_uuid": "SsRHk4FtoPH5DpYp",
+      "sibling_uuid": "pd7mjHCDFTE1O9IT",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174196410,
+      "level": 0,
+      "id": 174196410,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "阎佳逸/icar_2024",
+      "uuid": "pd7mjHCDFTE1O9IT",
+      "url": "dulmaen4vgl9socf",
+      "prev_uuid": "68E-mdIYNkSHPtLa",
+      "sibling_uuid": "cmZ09rm2kECtHNkG",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174196260,
+      "level": 0,
+      "id": 174196260,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "十九届完全模型一些小的想法: 最近闲来无事，看到了沈航某大佬开源的十九届智能车完全模型组源码，激发了一些新的想法，于是便整理出来，方便智能车新手学习。",
+      "uuid": "cmZ09rm2kECtHNkG",
+      "url": "sg0ddp3dvpcex5x6",
+      "prev_uuid": "pd7mjHCDFTE1O9IT",
+      "sibling_uuid": "2ZNZqjaD-u8uhTJo",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174196103,
+      "level": 0,
+      "id": 174196103,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "neptune-T/smartcar-model: 十九届完全模型",
+      "uuid": "2ZNZqjaD-u8uhTJo",
+      "url": "kresgo1qg8100gve",
+      "prev_uuid": "cmZ09rm2kECtHNkG",
+      "sibling_uuid": "oo7UpUKXiZxpMxL2",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174196006,
+      "level": 0,
+      "id": 174196006,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "JinHeMu/BaiduAI_Car: 第十九届智能车模型组",
+      "uuid": "oo7UpUKXiZxpMxL2",
+      "url": "fsdtv1ue6y9gzobe",
+      "prev_uuid": "2ZNZqjaD-u8uhTJo",
+      "sibling_uuid": "9GT8Z8Jfa9kUf0uu",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174195966,
+      "level": 0,
+      "id": 174195966,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "aiXcoder",
+      "uuid": "9GT8Z8Jfa9kUf0uu",
+      "url": "mygzqiq1x9x0ilb6",
+      "prev_uuid": "oo7UpUKXiZxpMxL2",
+      "sibling_uuid": "8JPTOZ3DQA75jYXD",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 174009946,
+      "level": 0,
+      "id": 174009946,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "c++多线程",
+      "uuid": "8JPTOZ3DQA75jYXD",
+      "url": "tghrsud8ycg4psl8",
+      "prev_uuid": "9GT8Z8Jfa9kUf0uu",
+      "sibling_uuid": "as7_5Ng5wp9tCyCx",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 173896958,
+      "level": 0,
+      "id": 173896958,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "openEuler开源实习 | 线上实习 | openEuler社区官网",
+      "uuid": "as7_5Ng5wp9tCyCx",
+      "url": "cogeiggdle8cx05s",
+      "prev_uuid": "8JPTOZ3DQA75jYXD",
+      "sibling_uuid": "d72s6k-8tgChIhbK",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172985455,
+      "level": 0,
+      "id": 172985455,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "llmchat3 - autodl",
+      "uuid": "d72s6k-8tgChIhbK",
+      "url": "hc2e4kgn8rhsgcte",
+      "prev_uuid": "as7_5Ng5wp9tCyCx",
+      "sibling_uuid": "5US5t6UQB5pALxKI",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172985410,
+      "level": 0,
+      "id": 172985410,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "slim",
+      "uuid": "5US5t6UQB5pALxKI",
+      "url": "mlc5o9scoiysqkft",
+      "prev_uuid": "d72s6k-8tgChIhbK",
+      "sibling_uuid": "LS7VQ1lNCUN8DPRU",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172605103,
+      "level": 0,
+      "id": 172605103,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "完全模型",
+      "uuid": "LS7VQ1lNCUN8DPRU",
+      "url": "pgrx3lnrmee27331",
+      "prev_uuid": "5US5t6UQB5pALxKI",
+      "sibling_uuid": "7fPwS9V6PBFh879E",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172265702,
+      "level": 0,
+      "id": 172265702,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办",
+      "uuid": "7fPwS9V6PBFh879E",
+      "url": "to1lo1fyer6gkh26",
+      "prev_uuid": "LS7VQ1lNCUN8DPRU",
+      "sibling_uuid": "GT48x3PGdDZac9d_",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172242490,
+      "level": 0,
+      "id": 172242490,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YOLO V8语义分割模型部署_yolov8语义分割-CSDN博客",
+      "uuid": "GT48x3PGdDZac9d_",
+      "url": "pg6h84xva9kpkwke",
+      "prev_uuid": "7fPwS9V6PBFh879E",
+      "sibling_uuid": "5GQjLy5fOyeFlk7w",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172094254,
+      "level": 0,
+      "id": 172094254,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "二、yolov8图像标注和模型训练(语义分割)_yolov8的图片标记-CSDN博客",
+      "uuid": "5GQjLy5fOyeFlk7w",
+      "url": "xgwxlkx943o87f7n",
+      "prev_uuid": "GT48x3PGdDZac9d_",
+      "sibling_uuid": "6yLS2ZmleURk0pKd",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172094035,
+      "level": 0,
+      "id": 172094035,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolo实现语义分割（cityscapes数据集）附源码_yolo语义分割-CSDN博客",
+      "uuid": "6yLS2ZmleURk0pKd",
+      "url": "va3s9mg9gkcapp3m",
+      "prev_uuid": "5GQjLy5fOyeFlk7w",
+      "sibling_uuid": "XVQha8_ceJ3APKFX",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172093623,
+      "level": 0,
+      "id": 172093623,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "什么是语义分割？| IBM",
+      "uuid": "XVQha8_ceJ3APKFX",
+      "url": "rvqz2fims2txlzrg",
+      "prev_uuid": "6yLS2ZmleURk0pKd",
+      "sibling_uuid": "mVgyoDxPLAU-jg35",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 172093133,
+      "level": 0,
+      "id": 172093133,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "interstudio训练完全模型笔记",
+      "uuid": "mVgyoDxPLAU-jg35",
+      "url": "tg96trq3oykbq17w",
+      "prev_uuid": "XVQha8_ceJ3APKFX",
+      "sibling_uuid": "WJ1p3kMbFI54s0jT",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171654920,
+      "level": 0,
+      "id": 171654920,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "在百度AIstudio上运行自己PaddleDetection所遇到的问题及解决方案_运行飞桨ai studio数据集报错-CSDN博客",
+      "uuid": "WJ1p3kMbFI54s0jT",
+      "url": "fxkh4cif0xouqcvc",
+      "prev_uuid": "mVgyoDxPLAU-jg35",
+      "sibling_uuid": "Wk2_bn0MIYR93soz",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171591620,
+      "level": 0,
+      "id": 171591620,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "BML Codelab",
+      "uuid": "Wk2_bn0MIYR93soz",
+      "url": "xvtkc7ahoqnukls2",
+      "prev_uuid": "WJ1p3kMbFI54s0jT",
+      "sibling_uuid": "3kuKXJkna7EBPDhq",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171451763,
+      "level": 0,
+      "id": 171451763,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "实验8 WEB 服务器的部署与应用 - 云起实验室-在线实验-上云实践-阿里云开发者社区-阿里云官方实验平台-阿里云",
+      "uuid": "3kuKXJkna7EBPDhq",
+      "url": "ia2mt0lofmeign0h",
+      "prev_uuid": "Wk2_bn0MIYR93soz",
+      "sibling_uuid": "sE7DPn3Dixg4hPR1",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171365030,
+      "level": 0,
+      "id": 171365030,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YOLOV5的pt模型转Paddle的inference模型_yolov5模型转为paddle格式-CSDN博客",
+      "uuid": "sE7DPn3Dixg4hPR1",
+      "url": "bp859239q2sehunk",
+      "prev_uuid": "3kuKXJkna7EBPDhq",
+      "sibling_uuid": "YgIREUmAaNcPo3i7",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171337578,
+      "level": 0,
+      "id": 171337578,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolov8训练，pt导出onnx，onnx转pdmodel",
+      "uuid": "YgIREUmAaNcPo3i7",
+      "url": "rohc5upsca3uz9kd",
+      "prev_uuid": "sE7DPn3Dixg4hPR1",
+      "sibling_uuid": "N8N57rncUuZP53Bh",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171337311,
+      "level": 0,
+      "id": 171337311,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "模型转换工具 X2Paddle-PaddlePaddle深度学习平台",
+      "uuid": "N8N57rncUuZP53Bh",
+      "url": "odg5mfozm18x9hxg",
+      "prev_uuid": "YgIREUmAaNcPo3i7",
+      "sibling_uuid": "zD7yRvmR35TLQbHQ",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171336949,
+      "level": 0,
+      "id": 171336949,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YOLOv8模型转换pt-＞onnx(附上代码)_yolov8n.pt转onnx-CSDN博客",
+      "uuid": "zD7yRvmR35TLQbHQ",
+      "url": "zu87lnrdxgu9ck8h",
+      "prev_uuid": "N8N57rncUuZP53Bh",
+      "sibling_uuid": "d9xx7uFl9hGZBDKy",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171336859,
+      "level": 0,
+      "id": 171336859,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Responder 无人机 对接911报警系统 可70秒抵达案发现场实时监控 – XiaoHu.AI学院",
+      "uuid": "d9xx7uFl9hGZBDKy",
+      "url": "uvsp1p46m3dmzo0p",
+      "prev_uuid": "zD7yRvmR35TLQbHQ",
+      "sibling_uuid": "zfkhfbyt7DHVAbfo",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171263755,
+      "level": 0,
+      "id": 171263755,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题文档",
+      "uuid": "zfkhfbyt7DHVAbfo",
+      "url": "vzcnxa7uy4zxenya",
+      "prev_uuid": "d9xx7uFl9hGZBDKy",
+      "sibling_uuid": "tR5oY9lg3cRjEzzI",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 171152763,
+      "level": 0,
+      "id": 171152763,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "毕设",
+      "uuid": "tR5oY9lg3cRjEzzI",
+      "url": "aiiz6sbnvkcfx5f2",
+      "prev_uuid": "zfkhfbyt7DHVAbfo",
+      "sibling_uuid": "uMMhuqLQ-um3FeI3",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170980899,
+      "level": 0,
+      "id": 170980899,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "mac安装brew小白指引_brew安装-CSDN博客",
+      "uuid": "uMMhuqLQ-um3FeI3",
+      "url": "ugxafqp3wzxxet0c",
+      "prev_uuid": "tR5oY9lg3cRjEzzI",
+      "sibling_uuid": "LzdRbEX0grkegLBJ",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170885112,
+      "level": 0,
+      "id": 170885112,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "在 CPU 服务器上部署 ChatGLM3-6B 模型 - Hacker and Geeker's Way",
+      "uuid": "LzdRbEX0grkegLBJ",
+      "url": "yxg0n6qg45pryqv9",
+      "prev_uuid": "uMMhuqLQ-um3FeI3",
+      "sibling_uuid": "BYVxOFr9jMFy988P",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170745481,
+      "level": 0,
+      "id": 170745481,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "指定 Whisper 输出为简体中文 - Wulu's Blog",
+      "uuid": "BYVxOFr9jMFy988P",
+      "url": "ig5ggi0lqxcqe982",
+      "prev_uuid": "LzdRbEX0grkegLBJ",
+      "sibling_uuid": "BsYv-VdEZQ2pHJo9",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170745452,
+      "level": 0,
+      "id": 170745452,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Ubuntu下安装SDL2（记录一下自己的踩的坑）_ubuntu sdl2-CSDN博客",
+      "uuid": "BsYv-VdEZQ2pHJo9",
+      "url": "yfqz2volm1nar9ev",
+      "prev_uuid": "BYVxOFr9jMFy988P",
+      "sibling_uuid": "AR9P5N-45ZbHwV1C",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170745340,
+      "level": 0,
+      "id": 170745340,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "talkGPT4All: 基于GPT4All的智能语音聊天程序 - 知乎",
+      "uuid": "AR9P5N-45ZbHwV1C",
+      "url": "un3wta0r3l04vgpa",
+      "prev_uuid": "BsYv-VdEZQ2pHJo9",
+      "sibling_uuid": "4MhikLE0Y7Sam4En",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170717525,
+      "level": 0,
+      "id": 170717525,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "语音转文字毕设",
+      "uuid": "4MhikLE0Y7Sam4En",
+      "url": "fmc86gyyb6m89120",
+      "prev_uuid": "AR9P5N-45ZbHwV1C",
+      "sibling_uuid": "rBu-ijguwG-E-SuL",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170716055,
+      "level": 0,
+      "id": 170716055,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "YOLOSHOW 中文版 - YOLOv5/YOLOv7/YOLOv8/YOLOv9/RTDETR GUI based on Pyside6 | SwimmingLiu's Blog",
+      "uuid": "rBu-ijguwG-E-SuL",
+      "url": "co97gy6zg0hc8vlm",
+      "prev_uuid": "4MhikLE0Y7Sam4En",
+      "sibling_uuid": "5QndWkhJpeCdruZw",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170701365,
+      "level": 0,
+      "id": 170701365,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "【实战解析】YOLOv9全流程训练至优化终极指南_yolov9教程-CSDN博客",
+      "uuid": "5QndWkhJpeCdruZw",
+      "url": "ihtqn63e5oiklhp9",
+      "prev_uuid": "rBu-ijguwG-E-SuL",
+      "sibling_uuid": "Fk3gY1ay7PCMKoiV",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170699729,
+      "level": 0,
+      "id": 170699729,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Ollama 运行 GGUF 模型 - 蝈蝈俊 - 博客园",
+      "uuid": "Fk3gY1ay7PCMKoiV",
+      "url": "ayopxg5cu4ma6bty",
+      "prev_uuid": "5QndWkhJpeCdruZw",
+      "sibling_uuid": "2EYHrrsnfZEIk5JW",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170561608,
+      "level": 0,
+      "id": 170561608,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "自定义数据集使用llama_factory微调模型并导入ollama_ollama下载的模型能通过llamafactory训练吗-CSDN博客",
+      "uuid": "2EYHrrsnfZEIk5JW",
+      "url": "mum6ste24evx5ryf",
+      "prev_uuid": "Fk3gY1ay7PCMKoiV",
+      "sibling_uuid": "l2F-Eq-WMw0NLxMv",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170417282,
+      "level": 0,
+      "id": 170417282,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ollama 部署 InternLM2 实践文档",
+      "uuid": "l2F-Eq-WMw0NLxMv",
+      "url": "mz4ihbk1532iiwfg",
+      "prev_uuid": "2EYHrrsnfZEIk5JW",
+      "sibling_uuid": "Hg2EhgulbiX9heQK",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170412794,
+      "level": 0,
+      "id": 170412794,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "llama.cpp量化模型",
+      "uuid": "Hg2EhgulbiX9heQK",
+      "url": "gg8y036gd13ts28g",
+      "prev_uuid": "l2F-Eq-WMw0NLxMv",
+      "sibling_uuid": "ExhHv6Vt1CoS-5GO",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170374618,
+      "level": 0,
+      "id": 170374618,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ollama 使用自定义大模型_ollama下载的模型使用-CSDN博客",
+      "uuid": "ExhHv6Vt1CoS-5GO",
+      "url": "id013z1a76u0ex7o",
+      "prev_uuid": "Hg2EhgulbiX9heQK",
+      "sibling_uuid": "Kj951KdO8H3dTBpR",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170265247,
+      "level": 0,
+      "id": 170265247,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolov8目标视频检测推理",
+      "uuid": "Kj951KdO8H3dTBpR",
+      "url": "eiord3wplepev0vs",
+      "prev_uuid": "ExhHv6Vt1CoS-5GO",
+      "sibling_uuid": "0qmCSq4hUKLm1uIl",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170100530,
+      "level": 0,
+      "id": 170100530,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "文档 · AtomGit评测赛事官方仓库 · AtomGit",
+      "uuid": "0qmCSq4hUKLm1uIl",
+      "url": "blxaqtxo6uso1gpz",
+      "prev_uuid": "Kj951KdO8H3dTBpR",
+      "sibling_uuid": "FYrEIoKYI6kEIs95",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170067861,
+      "level": 0,
+      "id": 170067861,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "测评提交",
+      "uuid": "FYrEIoKYI6kEIs95",
+      "url": "tbnlfggqkhb279lt",
+      "prev_uuid": "0qmCSq4hUKLm1uIl",
+      "sibling_uuid": "dTo_rhvVoVZf8BkR",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 170038806,
+      "level": 0,
+      "id": 170038806,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "大规模中文开源文本训练数据集的几点启发：兼看两个知识图谱与大模型的练手竞赛",
+      "uuid": "dTo_rhvVoVZf8BkR",
+      "url": "df0bpz78c81f7qk0",
+      "prev_uuid": "FYrEIoKYI6kEIs95",
+      "sibling_uuid": "s3xkOULJTg3FZW_x",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169889923,
+      "level": 0,
+      "id": 169889923,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "评测任务 – 2024全国知识图谱与语义计算大会和知识图谱国际联合会议联办",
+      "uuid": "s3xkOULJTg3FZW_x",
+      "url": "zo9bsa6k6384o20k",
+      "prev_uuid": "dTo_rhvVoVZf8BkR",
+      "sibling_uuid": "4XOjxPkz6-0xOArE",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169889875,
+      "level": 0,
+      "id": 169889875,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "计算机考研篇 - 欢迎来到这里",
+      "uuid": "4XOjxPkz6-0xOArE",
+      "url": "ta6qmq1383lo384h",
+      "prev_uuid": "s3xkOULJTg3FZW_x",
+      "sibling_uuid": "qQmY04wjmQC_dASg",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169743954,
+      "level": 0,
+      "id": 169743954,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "房屋建筑学设计",
+      "uuid": "qQmY04wjmQC_dASg",
+      "url": "pcgpyn9bbffz496b",
+      "prev_uuid": "4XOjxPkz6-0xOArE",
+      "sibling_uuid": "MsnnTsNKJ9QLidEc",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169696371,
+      "level": 0,
+      "id": 169696371,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "保姆级教程：使用Cloudflare+Telegraph搭建零成本图床系统",
+      "uuid": "MsnnTsNKJ9QLidEc",
+      "url": "ud3f5gb9ymd5ra3m",
+      "prev_uuid": "qQmY04wjmQC_dASg",
+      "sibling_uuid": "U7EP6zkj3rdEZlCt",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169626555,
+      "level": 0,
+      "id": 169626555,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "jina处理pdf文档",
+      "uuid": "U7EP6zkj3rdEZlCt",
+      "url": "rttocryrgosx5v3t",
+      "prev_uuid": "MsnnTsNKJ9QLidEc",
+      "sibling_uuid": "fBtM9a_VvRdwlpQ4",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169108966,
+      "level": 0,
+      "id": 169108966,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "消防glm3数据集构造",
+      "uuid": "fBtM9a_VvRdwlpQ4",
+      "url": "epwx0f8f28y30ycb",
+      "prev_uuid": "U7EP6zkj3rdEZlCt",
+      "sibling_uuid": "b9df5mJ-7uwocryd",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169108710,
+      "level": 0,
+      "id": 169108710,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "深度学习好书推荐",
+      "uuid": "b9df5mJ-7uwocryd",
+      "url": "sbhcqqz5evd5mnkm",
+      "prev_uuid": "fBtM9a_VvRdwlpQ4",
+      "sibling_uuid": "H9n99e0XQZVTrurG",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169107809,
+      "level": 0,
+      "id": 169107809,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "A题",
+      "uuid": "H9n99e0XQZVTrurG",
+      "url": "me7oeys7m0wsixb3",
+      "prev_uuid": "b9df5mJ-7uwocryd",
+      "sibling_uuid": "hS97S2hYmpgv4Yax",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 169037200,
+      "level": 0,
+      "id": 169037200,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题文档",
+      "uuid": "hS97S2hYmpgv4Yax",
+      "url": "wwgne9rg6it81myy",
+      "prev_uuid": "H9n99e0XQZVTrurG",
+      "sibling_uuid": "tg4_SFm1XUylXYOE",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168994898,
+      "level": 0,
+      "id": 168994898,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "知识图谱生成",
+      "uuid": "tg4_SFm1XUylXYOE",
+      "url": "bdtmonr8i955w620",
+      "prev_uuid": "hS97S2hYmpgv4Yax",
+      "sibling_uuid": "HWSE4tLgkDKSxuof",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168994861,
+      "level": 0,
+      "id": 168994861,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "internlm项目代办",
+      "uuid": "HWSE4tLgkDKSxuof",
+      "url": "lzp5g0vgkn6iew4g",
+      "prev_uuid": "tg4_SFm1XUylXYOE",
+      "sibling_uuid": "n4GbbXCcM9jqGjIu",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168981426,
+      "level": 0,
+      "id": 168981426,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "快速开始",
+      "uuid": "n4GbbXCcM9jqGjIu",
+      "url": "qqn1a2xq5wn1n8hl",
+      "prev_uuid": "HWSE4tLgkDKSxuof",
+      "sibling_uuid": "x5udkBseIVEkVeMF",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168951258,
+      "level": 0,
+      "id": 168951258,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "技术文档",
+      "uuid": "x5udkBseIVEkVeMF",
+      "url": "zmztzz9b1vfsbu8g",
+      "prev_uuid": "n4GbbXCcM9jqGjIu",
+      "sibling_uuid": "4vrZNR3dwPa8iIoN",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168912415,
+      "level": 0,
+      "id": 168912415,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ChatGLM3-Nofire消防规范问答模型是什么",
+      "uuid": "4vrZNR3dwPa8iIoN",
+      "url": "ofeofs71avqnzgml",
+      "prev_uuid": "x5udkBseIVEkVeMF",
+      "sibling_uuid": "IHi4ar0I6rUSj24B",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168900406,
+      "level": 0,
+      "id": 168900406,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题数据表",
+      "uuid": "IHi4ar0I6rUSj24B",
+      "url": "dei6sghm2hfi7b4q",
+      "prev_uuid": "4vrZNR3dwPa8iIoN",
+      "sibling_uuid": "wguuN41xFgTjyaGH",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168899017,
+      "level": 0,
+      "id": 168899017,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ChatGPT+SmartKG 3分钟生成「哈利波特」知识图谱-腾讯云开发者社区-腾讯云",
+      "uuid": "wguuN41xFgTjyaGH",
+      "url": "xg1lwhovk9sqovag",
+      "prev_uuid": "IHi4ar0I6rUSj24B",
+      "sibling_uuid": "rAmDEwOp3xGBMX4S",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168748860,
+      "level": 0,
+      "id": 168748860,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "与 AI 同行，利用 ChatGLM 构建知识图谱-腾讯云开发者社区-腾讯云",
+      "uuid": "rAmDEwOp3xGBMX4S",
+      "url": "hiegiimqo4i22g9k",
+      "prev_uuid": "wguuN41xFgTjyaGH",
+      "sibling_uuid": "mbAuHCsD3ehpoHz_",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168748833,
+      "level": 0,
+      "id": 168748833,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Centos7下安装docker compose",
+      "uuid": "mbAuHCsD3ehpoHz_",
+      "url": "agntgnty7eh2hgrk",
+      "prev_uuid": "rAmDEwOp3xGBMX4S",
+      "sibling_uuid": "7xD-2XToq7kmFKgP",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168747011,
+      "level": 0,
+      "id": 168747011,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "OneKE/openspg",
+      "uuid": "7xD-2XToq7kmFKgP",
+      "url": "",
+      "prev_uuid": "mbAuHCsD3ehpoHz_",
+      "sibling_uuid": "L6s4iGfPJ1GVDeb-",
+      "child_uuid": "la5SfbZWG9cwxiSh",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "安装教程",
+      "uuid": "la5SfbZWG9cwxiSh",
+      "url": "antg9s0km3gvyzzd",
+      "prev_uuid": "7xD-2XToq7kmFKgP",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "7xD-2XToq7kmFKgP",
+      "doc_id": 168746434,
+      "level": 1,
+      "id": 168746434,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "NAS下搭建一个全功能花哨的自托管监控工具—uptime-kuma - 知乎",
+      "uuid": "L6s4iGfPJ1GVDeb-",
+      "url": "dsnosx1mrmq3zchk",
+      "prev_uuid": "7xD-2XToq7kmFKgP",
+      "sibling_uuid": "E9KmS_o0cWTVUU9h",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168661249,
+      "level": 0,
+      "id": 168661249,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "书生谱语实战营笔记",
+      "uuid": "E9KmS_o0cWTVUU9h",
+      "url": "",
+      "prev_uuid": "L6s4iGfPJ1GVDeb-",
+      "sibling_uuid": "FSmREVeOFf3_Z-xB",
+      "child_uuid": "ncLUYeCHdcc_49Fu",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "部署到openxlab",
+      "uuid": "ncLUYeCHdcc_49Fu",
+      "url": "utmstgh074kigf1f",
+      "prev_uuid": "E9KmS_o0cWTVUU9h",
+      "sibling_uuid": "lVbfGPk3DE-liOsi",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 167149787,
+      "level": 1,
+      "id": 167149787,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生 谱语实战7",
+      "uuid": "lVbfGPk3DE-liOsi",
+      "url": "msgzt95qknbgpf8p",
+      "prev_uuid": "ncLUYeCHdcc_49Fu",
+      "sibling_uuid": "cFp4C8Y5_ADI3LXo",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 167153995,
+      "level": 1,
+      "id": 167153995,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生 谱语实战6",
+      "uuid": "cFp4C8Y5_ADI3LXo",
+      "url": "pg3g2a7lmp9oep4u",
+      "prev_uuid": "lVbfGPk3DE-liOsi",
+      "sibling_uuid": "4XPTyLFrB_K65Xar",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 167090632,
+      "level": 1,
+      "id": 167090632,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生· 浦语InterLM实战5",
+      "uuid": "4XPTyLFrB_K65Xar",
+      "url": "zoxhzftxhd3utq72",
+      "prev_uuid": "cFp4C8Y5_ADI3LXo",
+      "sibling_uuid": "CIwLSUlZZ-6-ITeP",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 166751600,
+      "level": 1,
+      "id": 166751600,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生· 浦语InternLM实战-4",
+      "uuid": "CIwLSUlZZ-6-ITeP",
+      "url": "mt4nvuhoz4r043uz",
+      "prev_uuid": "4XPTyLFrB_K65Xar",
+      "sibling_uuid": "8zNVrfKn_yKWg91o",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 166233309,
+      "level": 1,
+      "id": 166233309,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生· 浦语InternLM实战-3",
+      "uuid": "8zNVrfKn_yKWg91o",
+      "url": "teo0rsx22fk7bvmn",
+      "prev_uuid": "CIwLSUlZZ-6-ITeP",
+      "sibling_uuid": "wKfAiMKIKb-zCFDg",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 166063082,
+      "level": 1,
+      "id": 166063082,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生· 浦语InternLM实战-2",
+      "uuid": "wKfAiMKIKb-zCFDg",
+      "url": "xxfxlo8s26dk814e",
+      "prev_uuid": "8zNVrfKn_yKWg91o",
+      "sibling_uuid": "mlCB0UAGjVmTeajQ",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 164129482,
+      "level": 1,
+      "id": 164129482,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "书生· 浦语InternLM实战-1",
+      "uuid": "mlCB0UAGjVmTeajQ",
+      "url": "qxy6zkn6b10u7dva",
+      "prev_uuid": "wKfAiMKIKb-zCFDg",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "E9KmS_o0cWTVUU9h",
+      "doc_id": 164123170,
+      "level": 1,
+      "id": 164123170,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "ai模型炼丹",
+      "uuid": "FSmREVeOFf3_Z-xB",
+      "url": "",
+      "prev_uuid": "E9KmS_o0cWTVUU9h",
+      "sibling_uuid": "IyzyFKa7Ntl12Wrd",
+      "child_uuid": "v48YKKLfnizgpTZ-",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "工业消防AI模型Nofire项目",
+      "uuid": "v48YKKLfnizgpTZ-",
+      "url": "qwrxa74itrdnh6bt",
+      "prev_uuid": "FSmREVeOFf3_Z-xB",
+      "sibling_uuid": "8rj2GgGbSycNhcR6",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 166381923,
+      "level": 1,
+      "id": 166381923,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "简化操作版训练chatglm3-6b",
+      "uuid": "8rj2GgGbSycNhcR6",
+      "url": "fbck93mzpqlgpiez",
+      "prev_uuid": "v48YKKLfnizgpTZ-",
+      "sibling_uuid": "xPSWkk1xiROAl6fH",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168125075,
+      "level": 1,
+      "id": 168125075,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "THUDM/chatglm3-6b  hugging face镜像下载",
+      "uuid": "xPSWkk1xiROAl6fH",
+      "url": "ulasoiw0soumw1d4",
+      "prev_uuid": "8rj2GgGbSycNhcR6",
+      "sibling_uuid": "5axjT4XkkkbNVDAz",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168112316,
+      "level": 1,
+      "id": 168112316,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "【语料】百度的中文问答数据集WebQA - 科学空间|Scientific Spaces",
+      "uuid": "5axjT4XkkkbNVDAz",
+      "url": "hy7awpg146hf8rt6",
+      "prev_uuid": "xPSWkk1xiROAl6fH",
+      "sibling_uuid": "QihNk9nXRxZGqAQ_",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168090164,
+      "level": 1,
+      "id": 168090164,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "知识图谱应用——煤矿安全知识图谱构建技术研究学习_煤矿知识图谱-CSDN博客",
+      "uuid": "QihNk9nXRxZGqAQ_",
+      "url": "ishzmdr927dqnpl9",
+      "prev_uuid": "5axjT4XkkkbNVDAz",
+      "sibling_uuid": "ewDwYrL9V_5CWjI0",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168082932,
+      "level": 1,
+      "id": 168082932,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "chatglm3-6b llama-factory 微调",
+      "uuid": "ewDwYrL9V_5CWjI0",
+      "url": "cthosepubbm3vyxu",
+      "prev_uuid": "QihNk9nXRxZGqAQ_",
+      "sibling_uuid": "RccD_Rxb8W8Ci7HJ",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168030002,
+      "level": 1,
+      "id": 168030002,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ai换衣",
+      "uuid": "RccD_Rxb8W8Ci7HJ",
+      "url": "spwnyvq9zz6t2mb8",
+      "prev_uuid": "ewDwYrL9V_5CWjI0",
+      "sibling_uuid": "-TDixTP6RgmSXtKw",
+      "child_uuid": "",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168021797,
+      "level": 1,
+      "id": 168021797,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "训练能跑通了,但是我这边训练的人设好像没啥效果,是训练参数问题还是训练数据问题 · Issue #59 · mymusise/ChatGLM-Tuning",
+      "uuid": "-TDixTP6RgmSXtKw",
+      "url": "hw8r8kdhklntwq2t",
+      "prev_uuid": "RccD_Rxb8W8Ci7HJ",
+      "sibling_uuid": "",
+      "child_uuid": "Cjp3BT_nGm5Y8ZOg",
+      "parent_uuid": "FSmREVeOFf3_Z-xB",
+      "doc_id": 168017796,
+      "level": 1,
+      "id": 168017796,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "新分组",
+      "uuid": "Cjp3BT_nGm5Y8ZOg",
+      "url": "",
+      "prev_uuid": "-TDixTP6RgmSXtKw",
+      "sibling_uuid": "NYMUiWoY3y7qHa5K",
+      "child_uuid": "",
+      "parent_uuid": "-TDixTP6RgmSXtKw",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "新分组",
+      "uuid": "NYMUiWoY3y7qHa5K",
+      "url": "",
+      "prev_uuid": "Cjp3BT_nGm5Y8ZOg",
+      "sibling_uuid": "MrDuaGUADNj-mYHi",
+      "child_uuid": "",
+      "parent_uuid": "-TDixTP6RgmSXtKw",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "新分组",
+      "uuid": "MrDuaGUADNj-mYHi",
+      "url": "",
+      "prev_uuid": "NYMUiWoY3y7qHa5K",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "-TDixTP6RgmSXtKw",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "计算机视觉yolo",
+      "uuid": "IyzyFKa7Ntl12Wrd",
+      "url": "",
+      "prev_uuid": "FSmREVeOFf3_Z-xB",
+      "sibling_uuid": "HIryxmhNoD32PhGw",
+      "child_uuid": "FG58znOMf4ty0IWw",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolov10_autodl使用教程",
+      "uuid": "FG58znOMf4ty0IWw",
+      "url": "oayq81z91mvhe8mn",
+      "prev_uuid": "IyzyFKa7Ntl12Wrd",
+      "sibling_uuid": "Kjl9jelEKLLwrRle",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 171250390,
+      "level": 1,
+      "id": 171250390,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolov9-autodl使用教程",
+      "uuid": "Kjl9jelEKLLwrRle",
+      "url": "mn1hq9ifga10g4t5",
+      "prev_uuid": "FG58znOMf4ty0IWw",
+      "sibling_uuid": "6Eqh88z5jM4i52LY",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 168348120,
+      "level": 1,
+      "id": 168348120,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Yolov8如何在训练意外中断后接续训练",
+      "uuid": "6Eqh88z5jM4i52LY",
+      "url": "pivnc8fvqwda6qe3",
+      "prev_uuid": "Kjl9jelEKLLwrRle",
+      "sibling_uuid": "yFM7SGgR2jxtbPzh",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 167789414,
+      "level": 1,
+      "id": 167789414,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "手把手实现 | 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】",
+      "uuid": "yFM7SGgR2jxtbPzh",
+      "url": "xi9e8rs88d8aa4ny",
+      "prev_uuid": "6Eqh88z5jM4i52LY",
+      "sibling_uuid": "9bN-oOoDrGzsKgR_",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 167649831,
+      "level": 1,
+      "id": 167649831,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "手把手实现 | 使用Yolov8训练自己的数据集【环境配置-准备数据集(采集&标注&划分)-模型训练(多种方式)-模型预测-模型导出】",
+      "uuid": "9bN-oOoDrGzsKgR_",
+      "url": "ezk4u6e9xxn6cmnc",
+      "prev_uuid": "yFM7SGgR2jxtbPzh",
+      "sibling_uuid": "lIZ2VVpLWPQCLECf",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 167646876,
+      "level": 1,
+      "id": 167646876,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Anaconda如何切换国内镜像源",
+      "uuid": "lIZ2VVpLWPQCLECf",
+      "url": "gb06apih5youo8lh",
+      "prev_uuid": "9bN-oOoDrGzsKgR_",
+      "sibling_uuid": "E46DbC4fu5-ilhaG",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 167625489,
+      "level": 1,
+      "id": 167625489,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "vs code默认终端 conda activate无法激活",
+      "uuid": "E46DbC4fu5-ilhaG",
+      "url": "avpzuhffgt3y0znb",
+      "prev_uuid": "lIZ2VVpLWPQCLECf",
+      "sibling_uuid": "wiX9shgVVCfsF0rF",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 167619304,
+      "level": 1,
+      "id": 167619304,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "windows cmd命令行无法执行conda activate",
+      "uuid": "wiX9shgVVCfsF0rF",
+      "url": "fsz395tv5w97ot4o",
+      "prev_uuid": "E46DbC4fu5-ilhaG",
+      "sibling_uuid": "KOaiL2A_E0pX7HO5",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 167615492,
+      "level": 1,
+      "id": 167615492,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "使用K210 开发板，轻松实现人脸检测（附代码）_k210开发板-CSDN博客",
+      "uuid": "KOaiL2A_E0pX7HO5",
+      "url": "yt11o01zaxvbl113",
+      "prev_uuid": "wiX9shgVVCfsF0rF",
+      "sibling_uuid": "gEtIfpgZtR-sesAr",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 166378408,
+      "level": 1,
+      "id": 166378408,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "基于深度学习的甲骨文字检测和识别",
+      "uuid": "gEtIfpgZtR-sesAr",
+      "url": "gczflzv6dhahsr36",
+      "prev_uuid": "KOaiL2A_E0pX7HO5",
+      "sibling_uuid": "jEa4UfUIqORhP74U",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 165368314,
+      "level": 1,
+      "id": 165368314,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "K210电梯检测",
+      "uuid": "jEa4UfUIqORhP74U",
+      "url": "nvi9pgzrhs6l0mww",
+      "prev_uuid": "gEtIfpgZtR-sesAr",
+      "sibling_uuid": "Uy214VKgCqEuBDL_",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 165179659,
+      "level": 1,
+      "id": 165179659,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolov9 - DSW(第二版)",
+      "uuid": "Uy214VKgCqEuBDL_",
+      "url": "zn81d6q1tc8tomwx",
+      "prev_uuid": "jEa4UfUIqORhP74U",
+      "sibling_uuid": "DDcwAWM8LQyX5Ok6",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 164361666,
+      "level": 1,
+      "id": 164361666,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "yolov9 - DSW(第一版)",
+      "uuid": "DDcwAWM8LQyX5Ok6",
+      "url": "oo5yzz5e271degmu",
+      "prev_uuid": "Uy214VKgCqEuBDL_",
+      "sibling_uuid": "C43IVQl7cOIgVGLJ",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 164360996,
+      "level": 1,
+      "id": 164360996,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "LLM - DSW-lora",
+      "uuid": "C43IVQl7cOIgVGLJ",
+      "url": "hm524teapitsents",
+      "prev_uuid": "DDcwAWM8LQyX5Ok6",
+      "sibling_uuid": "QP-35yL0F2VRWyeM",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 164324549,
+      "level": 1,
+      "id": 164324549,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "深度学习+基于yolov2的头盔识别+k210端侧部署+课程设计/比赛项目_kmodel资源-CSDN文库",
+      "uuid": "QP-35yL0F2VRWyeM",
+      "url": "ozimrcgsqy5tw1ap",
+      "prev_uuid": "C43IVQl7cOIgVGLJ",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "IyzyFKa7Ntl12Wrd",
+      "doc_id": 164299387,
+      "level": 1,
+      "id": 164299387,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "实验室istore/nas",
+      "uuid": "HIryxmhNoD32PhGw",
+      "url": "",
+      "prev_uuid": "IyzyFKa7Ntl12Wrd",
+      "sibling_uuid": "JXdUyt6AdBrpVU1p",
+      "child_uuid": "1V8hCxskEDxLfjrT",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "istoreOS + Tailscale",
+      "uuid": "1V8hCxskEDxLfjrT",
+      "url": "grm3yk3m6kucg0xo",
+      "prev_uuid": "HIryxmhNoD32PhGw",
+      "sibling_uuid": "orJuIaZt9wCtlVRY",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 166906640,
+      "level": 1,
+      "id": 166906640,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Webos私有云 | 部署教程",
+      "uuid": "orJuIaZt9wCtlVRY",
+      "url": "ninymiigeks8urxa",
+      "prev_uuid": "1V8hCxskEDxLfjrT",
+      "sibling_uuid": "98CtLyl6gY5FRkAh",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 166493939,
+      "level": 1,
+      "id": 166493939,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "nas - Synology DiskStation",
+      "uuid": "98CtLyl6gY5FRkAh",
+      "url": "vxeu3wqppbm7es9p",
+      "prev_uuid": "orJuIaZt9wCtlVRY",
+      "sibling_uuid": "EjVKIEO9HUPuNSeN",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 166485898,
+      "level": 1,
+      "id": 166485898,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "群晖 安装 iStoreOS 作为 旁路由，华硕路由器,OpenWRT - 知乎",
+      "uuid": "EjVKIEO9HUPuNSeN",
+      "url": "hv0bfwlosgxdv1to",
+      "prev_uuid": "98CtLyl6gY5FRkAh",
+      "sibling_uuid": "YKZX0des3VnIqM53",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 166061231,
+      "level": 1,
+      "id": 166061231,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "群晖套件web staton的完全使用指南，静态网站（导航页）动态网站（typecho博客）搭建教程 - 折腾笔记",
+      "uuid": "YKZX0des3VnIqM53",
+      "url": "vuf7is7crps1u6qm",
+      "prev_uuid": "EjVKIEO9HUPuNSeN",
+      "sibling_uuid": "UrxnZbTDVPCgXhwP",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 165932248,
+      "level": 1,
+      "id": 165932248,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "OpenWrt安装Tailscale设置内网穿透+科学出国+外网互访局域网设备 - GXNAS博客",
+      "uuid": "UrxnZbTDVPCgXhwP",
+      "url": "xkw2qpnbcoggwbyr",
+      "prev_uuid": "YKZX0des3VnIqM53",
+      "sibling_uuid": "3LYd_TL5QhED-WF3",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 165931537,
+      "level": 1,
+      "id": 165931537,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "istoreos安装Tailscale设置内网穿透",
+      "uuid": "3LYd_TL5QhED-WF3",
+      "url": "wewp40na66ahcdw4",
+      "prev_uuid": "UrxnZbTDVPCgXhwP",
+      "sibling_uuid": "bGfsEnOG3AyLgKBx",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 165931178,
+      "level": 1,
+      "id": 165931178,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "tailscale",
+      "uuid": "bGfsEnOG3AyLgKBx",
+      "url": "xlcf7m1q5ake6gtd",
+      "prev_uuid": "3LYd_TL5QhED-WF3",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "HIryxmhNoD32PhGw",
+      "doc_id": 164496091,
+      "level": 1,
+      "id": 164496091,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "PDF自动化处理",
+      "uuid": "JXdUyt6AdBrpVU1p",
+      "url": "mimcc7g10lx628zf",
+      "prev_uuid": "HIryxmhNoD32PhGw",
+      "sibling_uuid": "lMiDxDayPtNyafJX",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168513300,
+      "level": 0,
+      "id": 168513300,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "阿里云盘获取Token教程 - 知乎",
+      "uuid": "lMiDxDayPtNyafJX",
+      "url": "zc8ike56mk3qkfde",
+      "prev_uuid": "JXdUyt6AdBrpVU1p",
+      "sibling_uuid": "TwnG9JJDC3CUQlxn",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168174190,
+      "level": 0,
+      "id": 168174190,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题文档",
+      "uuid": "TwnG9JJDC3CUQlxn",
+      "url": "gesuxmy2mywh1ox7",
+      "prev_uuid": "lMiDxDayPtNyafJX",
+      "sibling_uuid": "WB0D_nCwYCG7Sp5N",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 168015275,
+      "level": 0,
+      "id": 168015275,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "modelscope模型的上传 \n\n- 使用git上传（windows需要安装git，linux一般都安装过git）",
+      "uuid": "WB0D_nCwYCG7Sp5N",
+      "url": "ek0nap2mf79bc3ke",
+      "prev_uuid": "TwnG9JJDC3CUQlxn",
+      "sibling_uuid": "frG2GiZ0W9muBkcg",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 167388114,
+      "level": 0,
+      "id": 167388114,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无需Clone！VS Code直接操作远程GitHub仓库 - 知乎",
+      "uuid": "frG2GiZ0W9muBkcg",
+      "url": "whfrmc6umclw41qg",
+      "prev_uuid": "WB0D_nCwYCG7Sp5N",
+      "sibling_uuid": "-F-NyopaeshW2iph",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166919212,
+      "level": 0,
+      "id": 166919212,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1Panel 查看后台信息",
+      "uuid": "-F-NyopaeshW2iph",
+      "url": "fppgd25odf179zdk",
+      "prev_uuid": "frG2GiZ0W9muBkcg",
+      "sibling_uuid": "oMUOOZY8ujV2Ro9Q",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166552274,
+      "level": 0,
+      "id": 166552274,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "解决Github RAW ,文件，docker加速服务",
+      "uuid": "oMUOOZY8ujV2Ro9Q",
+      "url": "gfrxgfhftckxvx04",
+      "prev_uuid": "-F-NyopaeshW2iph",
+      "sibling_uuid": "TVnl2SvUC-KJsyPX",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166478696,
+      "level": 0,
+      "id": 166478696,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "docker 一键安装脚本/猪猫脚本",
+      "uuid": "TVnl2SvUC-KJsyPX",
+      "url": "axq35vmof5ws1wur",
+      "prev_uuid": "oMUOOZY8ujV2Ro9Q",
+      "sibling_uuid": "x1j8cIf29EEgD1R-",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166476642,
+      "level": 0,
+      "id": 166476642,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "OSS Planet | #JustGoOpen - Just Go Open, I've Got Your Back. - Free Hosting / VPS / Mirror for OpenSource Projects, etc. --- OSS星球 |#JustGoOpen - 只要打开，我支持你。- 开源项目的免费托管/ VPS /镜像等",
+      "uuid": "x1j8cIf29EEgD1R-",
+      "url": "rkbu6xfip2urcrag",
+      "prev_uuid": "TVnl2SvUC-KJsyPX",
+      "sibling_uuid": "FyrrGMhAONbLn_w3",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166476038,
+      "level": 0,
+      "id": 166476038,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "PaddleOCR环境搭建、模型训练、推理、部署全流程（Ubuntu系统）_1_ubuntu 快速使用paddleocr-CSDN博客",
+      "uuid": "FyrrGMhAONbLn_w3",
+      "url": "qh63eo9ul1llglio",
+      "prev_uuid": "x1j8cIf29EEgD1R-",
+      "sibling_uuid": "S9JnmeMgmqWiq5ML",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166474741,
+      "level": 0,
+      "id": 166474741,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "手把手在K210上部署自己在线训练的YOLO模型_yolo物体检测部署到k210上-CSDN博客",
+      "uuid": "S9JnmeMgmqWiq5ML",
+      "url": "khcxv6s0pqigkqfh",
+      "prev_uuid": "FyrrGMhAONbLn_w3",
+      "sibling_uuid": "Il-kznZ8pAGZNu5p",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166385224,
+      "level": 0,
+      "id": 166385224,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "基于 Ubuntu 18.04 的 PaddleOCR 环境搭建及使用 | 码农家园",
+      "uuid": "Il-kznZ8pAGZNu5p",
+      "url": "iyl2xkddo7o9xetn",
+      "prev_uuid": "S9JnmeMgmqWiq5ML",
+      "sibling_uuid": "-Yn0_3qTNjRYde2O",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166264952,
+      "level": 0,
+      "id": 166264952,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "paddle ocr 部署",
+      "uuid": "-Yn0_3qTNjRYde2O",
+      "url": "mzyitgt77tm9fqcl",
+      "prev_uuid": "Il-kznZ8pAGZNu5p",
+      "sibling_uuid": "_qSdzEY9kGANrpYd",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 166251844,
+      "level": 0,
+      "id": 166251844,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "【保姆级重磅】2024年mathorcup数模竞赛B题详细求解思路和第一问完整求解过程与代码_哔哩哔哩_bilibili",
+      "uuid": "_qSdzEY9kGANrpYd",
+      "url": "wqz3dqe4i8501xg2",
+      "prev_uuid": "-Yn0_3qTNjRYde2O",
+      "sibling_uuid": "4rGhLuwJZbYILWOb",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 165285324,
+      "level": 0,
+      "id": 165285324,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Langchain-ChatChat Windows部署踩坑及问题解决 - 知乎",
+      "uuid": "4rGhLuwJZbYILWOb",
+      "url": "gm0xwxiyr6npkgcv",
+      "prev_uuid": "_qSdzEY9kGANrpYd",
+      "sibling_uuid": "6OjfYwrbppHEqoBf",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 165053471,
+      "level": 0,
+      "id": 165053471,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Ubuntu部署LangChain-Chatchat - lukeewin的博客",
+      "uuid": "6OjfYwrbppHEqoBf",
+      "url": "kw9yqdxygg5ce5kx",
+      "prev_uuid": "4rGhLuwJZbYILWOb",
+      "sibling_uuid": "PyEenOvNcl0t93ae",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 165035215,
+      "level": 0,
+      "id": 165035215,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "keli uvsion5",
+      "uuid": "PyEenOvNcl0t93ae",
+      "url": "rxmkbx3gqwbecep8",
+      "prev_uuid": "6OjfYwrbppHEqoBf",
+      "sibling_uuid": "ZfEInqEZmGjNxXu0",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 164624134,
+      "level": 0,
+      "id": 164624134,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "无标题文档",
+      "uuid": "ZfEInqEZmGjNxXu0",
+      "url": "blaser3srbg0hb6n",
+      "prev_uuid": "PyEenOvNcl0t93ae",
+      "sibling_uuid": "zTHjzH9wPpv7pImI",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 164471283,
+      "level": 0,
+      "id": 164471283,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "使用git命令将代码上传到GitHub",
+      "uuid": "zTHjzH9wPpv7pImI",
+      "url": "pkhkgxm7t1649wu9",
+      "prev_uuid": "ZfEInqEZmGjNxXu0",
+      "sibling_uuid": "omDsh7j0W4qjKdmP",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 164358299,
+      "level": 0,
+      "id": 164358299,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "openvpn一键脚本",
+      "uuid": "omDsh7j0W4qjKdmP",
+      "url": "yn9sn6foiug1uywy",
+      "prev_uuid": "zTHjzH9wPpv7pImI",
+      "sibling_uuid": "U6BkIil6dCO8Wjix",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 164289038,
+      "level": 0,
+      "id": 164289038,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "chatglm3-6b部署到微调",
+      "uuid": "U6BkIil6dCO8Wjix",
+      "url": "lf4txmrwbbpxo2cr",
+      "prev_uuid": "omDsh7j0W4qjKdmP",
+      "sibling_uuid": "MrT0YgehGLgjy158",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 164033006,
+      "level": 0,
+      "id": 164033006,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ChatGLM3-6b部署、量化以及遇到的问题解决方案",
+      "uuid": "MrT0YgehGLgjy158",
+      "url": "otd26rbuouay1p4l",
+      "prev_uuid": "U6BkIil6dCO8Wjix",
+      "sibling_uuid": "66Uhha8R13RMDRDu",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163886278,
+      "level": 0,
+      "id": 163886278,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "从0开始，如何设计一个AI大模型？如何快速落地私有行业大模型？||附《AI大模型市场研究报告》_哔哩哔哩_bilibili",
+      "uuid": "66Uhha8R13RMDRDu",
+      "url": "dh6s46sm87b0sfrs",
+      "prev_uuid": "MrT0YgehGLgjy158",
+      "sibling_uuid": "mOR8TMPNHJufxRKG",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163877305,
+      "level": 0,
+      "id": 163877305,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "RWKV-Runner",
+      "uuid": "mOR8TMPNHJufxRKG",
+      "url": "wzqudyof3vrnc44r",
+      "prev_uuid": "66Uhha8R13RMDRDu",
+      "sibling_uuid": "33Yx1L-e4Ota0UT8",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163870893,
+      "level": 0,
+      "id": 163870893,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "模型特色",
+      "uuid": "33Yx1L-e4Ota0UT8",
+      "url": "vcop4ztakxrhuanx",
+      "prev_uuid": "mOR8TMPNHJufxRKG",
+      "sibling_uuid": "KbRoC3EGQARQYMhx",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163754333,
+      "level": 0,
+      "id": 163754333,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "近期LLM任务",
+      "uuid": "KbRoC3EGQARQYMhx",
+      "url": "axsi8hymvuuhg21e",
+      "prev_uuid": "33Yx1L-e4Ota0UT8",
+      "sibling_uuid": "kAzyQHMK1Jrlvsoj",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163749754,
+      "level": 0,
+      "id": 163749754,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "DLAI - Learning Platform",
+      "uuid": "kAzyQHMK1Jrlvsoj",
+      "url": "kbh2kll29255d5nt",
+      "prev_uuid": "KbRoC3EGQARQYMhx",
+      "sibling_uuid": "8R_MuA5RzYJKPVhf",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163747075,
+      "level": 0,
+      "id": 163747075,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Hello from FastWiki文档 | FastWiki文档",
+      "uuid": "8R_MuA5RzYJKPVhf",
+      "url": "yivlmm7wpubgyox4",
+      "prev_uuid": "kAzyQHMK1Jrlvsoj",
+      "sibling_uuid": "KyvzVtOjsFes1Gt8",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163734677,
+      "level": 0,
+      "id": 163734677,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "智能AI知识库，增强AI知识的开源项目 - tokengo - 博客园",
+      "uuid": "KyvzVtOjsFes1Gt8",
+      "url": "xfrvn7pwl4fgaopt",
+      "prev_uuid": "8R_MuA5RzYJKPVhf",
+      "sibling_uuid": "UvZgm-PYNRYJbiwv",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163734642,
+      "level": 0,
+      "id": 163734642,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "模型文件 | Open WebUI",
+      "uuid": "UvZgm-PYNRYJbiwv",
+      "url": "knk96qn8rloof045",
+      "prev_uuid": "KyvzVtOjsFes1Gt8",
+      "sibling_uuid": "TDvQ-_k-KdNz6F79",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163734606,
+      "level": 0,
+      "id": 163734606,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Gpt3.5",
+      "uuid": "TDvQ-_k-KdNz6F79",
+      "url": "pn3srava5wrik4n3",
+      "prev_uuid": "UvZgm-PYNRYJbiwv",
+      "sibling_uuid": "ZfD-rkEJikC1Sz-B",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163732166,
+      "level": 0,
+      "id": 163732166,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Langchain-Chatchat Wiki",
+      "uuid": "ZfD-rkEJikC1Sz-B",
+      "url": "vbvkkgoskoap7t2n",
+      "prev_uuid": "TDvQ-_k-KdNz6F79",
+      "sibling_uuid": "Z8vH4dhCXWYi_6AW",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163672354,
+      "level": 0,
+      "id": 163672354,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "接入微软、ChatGLM、本地模型等 | FastWiki文档",
+      "uuid": "Z8vH4dhCXWYi_6AW",
+      "url": "grhxdci8nycrrqpr",
+      "prev_uuid": "ZfD-rkEJikC1Sz-B",
+      "sibling_uuid": "8tLc7kZ0bqMzLNii",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163616951,
+      "level": 0,
+      "id": 163616951,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "服务器搭建frp实现内网穿透🔥",
+      "uuid": "8tLc7kZ0bqMzLNii",
+      "url": "clt42cuk5hhqa62z",
+      "prev_uuid": "Z8vH4dhCXWYi_6AW",
+      "sibling_uuid": "44563820:HoylSB5eVhKdMqMc",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 163575626,
+      "level": 0,
+      "id": 163575626,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "💡 1 分钟玩转语雀文档",
+      "uuid": "44563820:HoylSB5eVhKdMqMc",
+      "url": "lbtm27227pgb044b",
+      "prev_uuid": "8tLc7kZ0bqMzLNii",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 149665477,
+      "level": 0,
+      "id": 149665477,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
